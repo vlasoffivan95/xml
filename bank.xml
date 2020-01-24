@@ -1,0 +1,1451 @@
+<root>
+  <manager name="Johnson" email="zwells@gmail.com" phone="291.647.7406x459">
+    <client id="9972801" name="Susan French">
+      <deposit status="active" value="238285.38"></deposit>
+      <deposit status="closed" value="679058.95"></deposit>
+      <credit status="active" value="835748.35"><pay value="119173.49" date="2009-05-23"></pay><pay value="93484.19" date="2011-11-18"></pay></credit>
+      <credit status="closed" value="969727.02"></credit>
+      <credit status="active" value="531890.04"><pay value="4033.39" date="2009-01-04"></pay><pay value="103749.26" date="2010-07-20"></pay></credit>
+      <deposit status="closed" value="756481.03"></deposit>
+      <deposit status="closed" value="518735.15"></deposit>
+      <deposit status="active" value="222699.08"></deposit>
+      <credit status="active" value="965990.24"><pay value="82585.88" date="2016-09-28"></pay><pay value="457857.06" date="2006-10-03"></pay></credit>
+      <credit status="closed" value="879080.21"></credit>
+      <credit status="closed" value="197170.82"></credit>
+      <credit status="closed" value="506561.57"></credit>
+      <deposit status="closed" value="199794.59"></deposit>
+      <credit status="closed" value="735743.60"></credit>
+      <deposit status="active" value="885577.96"></deposit>
+      <credit status="active" value="148953.20"><pay value="60907.19" date="2009-09-19"></pay></credit>
+    </client>
+    <client id="3736245" name="Mandy Klein">
+      <credit status="active" value="944671.22"><pay value="403279.04" date="2001-10-19"></pay></credit>
+      <credit status="closed" value="90262.93"></credit>
+      <credit status="active" value="939852.20"><pay value="153221.37" date="2016-03-13"></pay><pay value="142681.12" date="2010-11-22"></pay><pay value="156991.48" date="2013-04-08"></pay><pay value="124537.10" date="2014-10-30"></pay></credit>
+      <credit status="closed" value="158822.16"></credit>
+      <credit status="active" value="49302.13"><pay value="1842.85" date="2013-03-20"></pay><pay value="10128.62" date="2007-08-09"></pay><pay value="4854.59" date="2007-05-26"></pay><pay value="2747.38" date="2009-10-19"></pay></credit>
+      <deposit status="active" value="664967.63"></deposit>
+      <credit status="active" value="743658.24"><pay value="20587.76" date="2003-02-07"></pay><pay value="29814.13" date="2016-09-11"></pay><pay value="37676.43" date="2013-03-14"></pay></credit>
+      <deposit status="active" value="783081.82"></deposit>
+      <deposit status="active" value="533604.45"></deposit>
+      <deposit status="closed" value="930754.88"></deposit>
+      <deposit status="active" value="528996.24"></deposit>
+      <deposit status="closed" value="237988.20"></deposit>
+      <credit status="active" value="600423.37"><pay value="16166.77" date="2019-04-28"></pay><pay value="109690.50" date="2010-02-19"></pay></credit>
+    </client>
+    <client id="8502596" name="Eric Juarez">
+      <credit status="closed" value="118320.98"></credit>
+      <deposit status="active" value="624686.66"></deposit>
+      <credit status="active" value="349451.11"><pay value="8132.47" date="2017-07-21"></pay></credit>
+      <credit status="closed" value="86242.87"></credit>
+      <credit status="active" value="655625.24"><pay value="106914.84" date="2010-03-24"></pay></credit>
+      <deposit status="closed" value="19232.52"></deposit>
+      <deposit status="active" value="774703.06"></deposit>
+      <credit status="closed" value="483433.17"></credit>
+      <credit status="closed" value="560773.16"></credit>
+      <deposit status="active" value="202123.08"></deposit>
+      <credit status="active" value="592580.69"><pay value="8929.77" date="2000-11-21"></pay><pay value="225604.78" date="2000-05-29"></pay></credit>
+      <credit status="closed" value="159798.09"></credit>
+      <deposit status="active" value="534010.58"></deposit>
+    </client>
+    <client id="3448421" name="Taylor Flores">
+      <credit status="closed" value="892885.73"></credit>
+      <credit status="active" value="75603.09"><pay value="18541.21" date="2001-11-13"></pay><pay value="15917.75" date="2000-05-19"></pay><pay value="681.28" date="2018-08-25"></pay></credit>
+      <credit status="active" value="531102.52"><pay value="130519.79" date="2014-10-19"></pay><pay value="35771.03" date="2015-01-26"></pay><pay value="47215.09" date="2007-03-10"></pay></credit>
+      <deposit status="active" value="428111.73"></deposit>
+      <deposit status="active" value="483274.70"></deposit>
+      <credit status="active" value="837465.05"><pay value="322898.86" date="2018-04-28"></pay></credit>
+      <credit status="active" value="157778.46"><pay value="34400.37" date="2001-12-16"></pay></credit>
+      <credit status="active" value="140871.87"><pay value="17950.28" date="2014-08-29"></pay><pay value="23252.90" date="2016-02-13"></pay><pay value="9585.47" date="2001-10-25"></pay><pay value="18747.56" date="2006-10-09"></pay></credit>
+      <credit status="active" value="223051.61"><pay value="652.56" date="2017-01-02"></pay><pay value="44643.78" date="2015-04-11"></pay><pay value="43522.02" date="2004-05-10"></pay><pay value="19295.86" date="2017-07-04"></pay></credit>
+      <credit status="closed" value="769597.48"></credit>
+      <deposit status="closed" value="234488.02"></deposit>
+      <deposit status="closed" value="608939.19"></deposit>
+      <deposit status="active" value="316651.29"></deposit>
+      <deposit status="active" value="514067.33"></deposit>
+    </client>
+    <client id="4437198" name="Hector Henry">
+      <deposit status="closed" value="298999.85"></deposit>
+      <credit status="closed" value="651822.46"></credit>
+      <credit status="closed" value="382185.96"></credit>
+      <credit status="closed" value="979497.50"></credit>
+      <credit status="active" value="872879.01"><pay value="716653.51" date="2004-02-27"></pay></credit>
+      <credit status="closed" value="811833.98"></credit>
+      <credit status="closed" value="500168.99"></credit>
+      <credit status="closed" value="334620.81"></credit>
+      <credit status="closed" value="988478.78"></credit>
+      <credit status="active" value="857297.18"><pay value="6812.22" date="2012-10-16"></pay><pay value="135731.48" date="2004-06-17"></pay><pay value="155910.58" date="2015-01-08"></pay><pay value="130949.69" date="2011-05-01"></pay></credit>
+      <deposit status="closed" value="72340.41"></deposit>
+      <deposit status="active" value="235018.45"></deposit>
+      <credit status="active" value="446277.57"><pay value="49392.80" date="2015-09-11"></pay></credit>
+      <credit status="closed" value="964486.80"></credit>
+    </client>
+    <client id="4417074" name="Nancy Becker">
+      <credit status="active" value="974465.63"><pay value="168748.95" date="2011-01-30"></pay><pay value="278554.78" date="2013-10-01"></pay><pay value="184166.73" date="2008-02-09"></pay></credit>
+      <credit status="active" value="915576.01"><pay value="253320.15" date="2006-03-28"></pay></credit>
+      <credit status="active" value="566095.65"><pay value="66338.53" date="2014-05-07"></pay><pay value="120773.85" date="2005-09-17"></pay><pay value="88880.11" date="2008-05-29"></pay><pay value="120134.20" date="2013-05-10"></pay></credit>
+      <credit status="active" value="502342.91"><pay value="488942.80" date="2006-06-13"></pay></credit>
+      <credit status="closed" value="572929.84"></credit>
+      <credit status="active" value="71788.90"><pay value="43298.00" date="2018-06-26"></pay></credit>
+      <deposit status="closed" value="756799.31"></deposit>
+      <credit status="active" value="300692.98"><pay value="600.23" date="2005-05-26"></pay><pay value="21390.76" date="2000-05-04"></pay><pay value="22789.79" date="2010-03-23"></pay><pay value="72651.16" date="2000-09-15"></pay></credit>
+      <credit status="closed" value="252772.64"></credit>
+      <deposit status="active" value="779776.10"></deposit>
+      <deposit status="active" value="46560.47"></deposit>
+      <credit status="closed" value="306981.71"></credit>
+      <credit status="closed" value="300509.01"></credit>
+      <deposit status="active" value="880912.47"></deposit>
+      <credit status="closed" value="639724.53"></credit>
+      <credit status="active" value="148928.97"><pay value="140742.30" date="2000-05-12"></pay></credit>
+    </client>
+    <client id="8679461" name="Kristen Grant">
+      <credit status="closed" value="787087.85"></credit>
+      <deposit status="closed" value="175485.36"></deposit>
+      <deposit status="active" value="440193.79"></deposit>
+      <credit status="active" value="732606.12"><pay value="82855.48" date="2011-12-08"></pay><pay value="54827.69" date="2004-07-05"></pay><pay value="30980.74" date="2004-02-26"></pay></credit>
+      <credit status="closed" value="570258.67"></credit>
+      <deposit status="closed" value="654559.05"></deposit>
+      <deposit status="closed" value="133094.63"></deposit>
+      <credit status="active" value="221318.85"><pay value="46625.70" date="2018-07-10"></pay><pay value="6010.50" date="2000-11-27"></pay><pay value="55084.77" date="2015-09-05"></pay><pay value="14291.88" date="2013-12-20"></pay></credit>
+      <deposit status="active" value="216584.93"></deposit>
+      <credit status="closed" value="620539.95"></credit>
+      <credit status="closed" value="273349.23"></credit>
+      <deposit status="active" value="934301.91"></deposit>
+      <deposit status="closed" value="27613.42"></deposit>
+      <credit status="active" value="805678.27"><pay value="167046.25" date="2016-08-18"></pay><pay value="233086.02" date="2014-07-10"></pay><pay value="142269.23" date="2014-05-17"></pay></credit>
+      <deposit status="closed" value="180069.56"></deposit>
+      <credit status="closed" value="830381.84"></credit>
+      <deposit status="closed" value="9292.12"></deposit>
+    </client>
+    <client id="2302782" name="Tina Marks">
+      <deposit status="closed" value="806430.76"></deposit>
+      <deposit status="closed" value="160623.55"></deposit>
+      <credit status="closed" value="106382.18"></credit>
+      <credit status="active" value="279665.98"><pay value="208810.55" date="2008-11-16"></pay></credit>
+      <credit status="active" value="556074.78"><pay value="133740.54" date="2016-07-21"></pay></credit>
+      <credit status="closed" value="469834.24"></credit>
+      <credit status="active" value="546352.88"><pay value="208299.70" date="2002-04-12"></pay><pay value="199935.65" date="2001-01-21"></pay></credit>
+      <credit status="closed" value="960215.00"></credit>
+      <credit status="active" value="128949.42"><pay value="3631.59" date="2005-11-21"></pay><pay value="41939.19" date="2006-11-18"></pay><pay value="17466.18" date="2004-03-19"></pay></credit>
+      <credit status="closed" value="513988.33"></credit>
+      <deposit status="closed" value="888760.48"></deposit>
+      <credit status="closed" value="510113.85"></credit>
+    </client>
+    <client id="1232699" name="Jonathan Rodriguez">
+      <credit status="closed" value="7383.56"></credit>
+      <credit status="active" value="167242.61"><pay value="38539.26" date="2011-09-26"></pay><pay value="33850.11" date="2009-12-21"></pay></credit>
+      <deposit status="closed" value="885542.80"></deposit>
+      <credit status="closed" value="309731.79"></credit>
+      <credit status="closed" value="49866.54"></credit>
+      <credit status="closed" value="855979.07"></credit>
+      <deposit status="closed" value="168704.03"></deposit>
+      <deposit status="closed" value="37390.17"></deposit>
+      <credit status="closed" value="230477.03"></credit>
+      <credit status="active" value="887223.08"><pay value="287477.09" date="2010-01-31"></pay><pay value="77840.63" date="2004-04-28"></pay><pay value="4528.15" date="2007-09-26"></pay></credit>
+      <credit status="closed" value="719309.25"></credit>
+      <credit status="closed" value="989977.07"></credit>
+    </client>
+    <client id="8390672" name="Joseph Miller">
+      <credit status="active" value="745675.87"><pay value="671120.33" date="2001-02-19"></pay></credit>
+      <credit status="closed" value="646242.10"></credit>
+      <credit status="closed" value="933645.47"></credit>
+      <deposit status="active" value="299676.50"></deposit>
+      <credit status="active" value="754003.13"><pay value="7731.77" date="2003-02-20"></pay></credit>
+      <deposit status="closed" value="936999.72"></deposit>
+      <credit status="active" value="875087.98"><pay value="698118.06" date="2014-07-07"></pay></credit>
+      <deposit status="active" value="678510.66"></deposit>
+      <deposit status="active" value="275905.97"></deposit>
+      <credit status="closed" value="216724.88"></credit>
+    </client>
+  </manager>
+  <manager name="Rhodes" email="gporter@hotmail.com" phone="044.111.1092">
+    <client id="9805273" name="Brittany Olson">
+      <deposit status="active" value="359395.93"></deposit>
+      <credit status="active" value="327166.23"><pay value="15338.93" date="2010-08-07"></pay><pay value="20365.31" date="2018-04-05"></pay><pay value="75628.83" date="2012-02-01"></pay><pay value="59193.35" date="2010-12-01"></pay></credit>
+      <deposit status="closed" value="464752.84"></deposit>
+      <credit status="active" value="436611.64"><pay value="56086.40" date="2007-11-20"></pay><pay value="101395.17" date="2013-06-20"></pay></credit>
+      <credit status="closed" value="485647.32"></credit>
+      <deposit status="active" value="335304.67"></deposit>
+      <deposit status="active" value="478665.98"></deposit>
+      <credit status="closed" value="614564.02"></credit>
+      <credit status="active" value="653418.18"><pay value="63970.77" date="2008-02-03"></pay><pay value="175578.95" date="2012-04-11"></pay><pay value="55490.45" date="2012-12-06"></pay></credit>
+      <credit status="closed" value="873147.96"></credit>
+      <credit status="closed" value="439717.04"></credit>
+      <credit status="closed" value="603614.77"></credit>
+      <credit status="closed" value="323639.67"></credit>
+      <credit status="closed" value="691293.21"></credit>
+      <credit status="active" value="512918.16"><pay value="45578.10" date="2011-12-28"></pay></credit>
+      <deposit status="active" value="826012.74"></deposit>
+      <credit status="active" value="186631.47"><pay value="83840.32" date="2019-04-15"></pay></credit>
+    </client>
+    <client id="1466034" name="Dana Bowen">
+      <deposit status="closed" value="802227.37"></deposit>
+      <credit status="active" value="591357.48"><pay value="5788.12" date="2011-08-19"></pay><pay value="119033.38" date="2005-05-12"></pay><pay value="45239.76" date="2011-12-21"></pay><pay value="99701.76" date="2005-09-16"></pay></credit>
+      <credit status="active" value="555259.07"><pay value="34793.38" date="2009-03-12"></pay><pay value="10982.73" date="2009-03-28"></pay><pay value="88643.22" date="2006-09-03"></pay><pay value="9610.45" date="2015-07-29"></pay></credit>
+      <credit status="closed" value="159804.52"></credit>
+      <credit status="active" value="654147.27"><pay value="149774.46" date="2009-03-15"></pay><pay value="142063.95" date="2013-04-19"></pay></credit>
+      <credit status="active" value="814659.73"><pay value="169180.50" date="2005-09-14"></pay><pay value="182405.59" date="2011-04-02"></pay><pay value="115435.18" date="2012-06-09"></pay><pay value="193601.21" date="2011-03-16"></pay></credit>
+      <credit status="closed" value="271020.99"></credit>
+      <deposit status="closed" value="549381.30"></deposit>
+      <credit status="closed" value="102446.77"></credit>
+      <credit status="closed" value="785447.32"></credit>
+      <credit status="active" value="956202.50"><pay value="4547.98" date="2001-04-22"></pay><pay value="12932.51" date="2008-09-15"></pay><pay value="124610.36" date="2018-11-03"></pay><pay value="40794.57" date="2005-09-21"></pay></credit>
+      <credit status="closed" value="646596.23"></credit>
+      <credit status="active" value="832295.95"><pay value="221911.45" date="2007-01-31"></pay><pay value="400330.66" date="2017-05-11"></pay></credit>
+      <credit status="closed" value="437614.68"></credit>
+      <credit status="closed" value="133941.82"></credit>
+      <credit status="active" value="330129.56"><pay value="238398.04" date="2005-12-14"></pay></credit>
+      <deposit status="closed" value="381260.80"></deposit>
+    </client>
+    <client id="6570596" name="Lisa Sims">
+      <credit status="closed" value="467424.63"></credit>
+      <credit status="active" value="428323.13"><pay value="81443.77" date="2002-07-20"></pay><pay value="54660.57" date="2005-02-21"></pay><pay value="106518.04" date="2014-04-02"></pay></credit>
+      <credit status="active" value="624011.57"><pay value="45524.03" date="2019-01-11"></pay><pay value="138600.09" date="2019-04-18"></pay><pay value="113906.77" date="2007-12-05"></pay><pay value="41126.97" date="2018-03-10"></pay></credit>
+      <deposit status="active" value="305871.15"></deposit>
+      <credit status="active" value="655595.52"><pay value="60997.12" date="2016-07-14"></pay><pay value="21610.48" date="2005-12-13"></pay></credit>
+      <deposit status="closed" value="676336.89"></deposit>
+      <deposit status="closed" value="875703.51"></deposit>
+      <deposit status="active" value="516056.66"></deposit>
+      <credit status="closed" value="278087.35"></credit>
+      <credit status="closed" value="438912.22"></credit>
+      <credit status="closed" value="681563.11"></credit>
+      <credit status="active" value="987447.38"><pay value="328922.05" date="2001-03-11"></pay><pay value="279793.24" date="2008-06-18"></pay><pay value="54123.29" date="2014-06-01"></pay></credit>
+      <deposit status="closed" value="925023.71"></deposit>
+      <credit status="active" value="722946.02"><pay value="206944.36" date="2008-04-08"></pay><pay value="315341.16" date="2013-11-12"></pay></credit>
+      <credit status="closed" value="599999.03"></credit>
+      <deposit status="closed" value="508526.18"></deposit>
+      <deposit status="closed" value="62095.83"></deposit>
+    </client>
+    <client id="3124719" name="Travis Wallace">
+      <credit status="closed" value="761667.33"></credit>
+      <credit status="closed" value="934362.04"></credit>
+      <deposit status="closed" value="81175.22"></deposit>
+      <deposit status="active" value="910702.91"></deposit>
+      <deposit status="active" value="649748.03"></deposit>
+      <credit status="active" value="806494.32"><pay value="354100.73" date="2016-06-17"></pay><pay value="255956.20" date="2001-04-03"></pay></credit>
+      <deposit status="active" value="524488.47"></deposit>
+      <deposit status="closed" value="190035.90"></deposit>
+      <credit status="active" value="778449.75"><pay value="29264.01" date="2013-11-19"></pay><pay value="98351.30" date="2011-11-04"></pay><pay value="102496.37" date="2016-02-13"></pay><pay value="23495.49" date="2006-05-02"></pay></credit>
+      <credit status="closed" value="769748.36"></credit>
+    </client>
+    <client id="8618488" name="Cindy Mendez">
+      <credit status="closed" value="80525.33"></credit>
+      <deposit status="active" value="782609.88"></deposit>
+      <deposit status="closed" value="399795.00"></deposit>
+      <credit status="closed" value="737398.53"></credit>
+      <credit status="active" value="77185.44"><pay value="16507.03" date="2004-05-14"></pay></credit>
+      <credit status="closed" value="966817.63"></credit>
+      <deposit status="active" value="424935.60"></deposit>
+      <deposit status="closed" value="524092.31"></deposit>
+      <credit status="closed" value="702350.08"></credit>
+      <credit status="active" value="987074.84"><pay value="8758.14" date="2014-03-07"></pay><pay value="245865.96" date="2016-05-12"></pay><pay value="103226.85" date="2002-11-26"></pay></credit>
+      <credit status="closed" value="810876.69"></credit>
+      <deposit status="closed" value="686720.84"></deposit>
+      <credit status="closed" value="39614.31"></credit>
+      <deposit status="closed" value="744617.62"></deposit>
+      <credit status="active" value="675031.61"><pay value="53424.50" date="2013-08-09"></pay><pay value="91789.83" date="2012-06-19"></pay><pay value="4004.37" date="2017-03-29"></pay></credit>
+      <credit status="closed" value="683466.50"></credit>
+      <credit status="closed" value="240041.87"></credit>
+      <credit status="active" value="441788.88"><pay value="302322.00" date="2004-11-20"></pay></credit>
+      <credit status="active" value="534668.24"><pay value="135662.69" date="2002-09-13"></pay><pay value="75621.76" date="2002-11-29"></pay><pay value="110340.91" date="2010-04-03"></pay></credit>
+      <deposit status="active" value="860722.72"></deposit>
+    </client>
+    <client id="9929645" name="Kristine Deleon">
+      <credit status="active" value="759683.76"><pay value="269717.74" date="2007-01-20"></pay><pay value="350397.53" date="2014-01-17"></pay></credit>
+      <deposit status="closed" value="678087.82"></deposit>
+      <deposit status="closed" value="650366.28"></deposit>
+      <credit status="active" value="713502.97"><pay value="37813.19" date="2002-08-09"></pay></credit>
+      <credit status="active" value="773381.98"><pay value="141513.29" date="2010-03-19"></pay><pay value="324917.29" date="2016-12-20"></pay></credit>
+      <credit status="closed" value="798853.55"></credit>
+      <credit status="active" value="96156.50"><pay value="21331.33" date="2005-09-22"></pay><pay value="16315.01" date="2005-12-28"></pay></credit>
+      <credit status="closed" value="806487.99"></credit>
+      <credit status="active" value="376464.09"><pay value="29591.60" date="2005-01-31"></pay><pay value="8305.13" date="2006-11-21"></pay><pay value="57035.97" date="2011-06-05"></pay><pay value="48651.35" date="2002-02-05"></pay></credit>
+      <deposit status="closed" value="641051.65"></deposit>
+      <deposit status="active" value="38465.05"></deposit>
+      <credit status="active" value="261712.93"><pay value="43270.66" date="2001-07-09"></pay><pay value="1536.51" date="2016-07-06"></pay><pay value="4289.06" date="2011-03-13"></pay><pay value="53757.70" date="2010-08-21"></pay></credit>
+      <credit status="active" value="430017.26"><pay value="74652.63" date="2011-12-26"></pay><pay value="82925.57" date="2015-11-17"></pay></credit>
+      <deposit status="active" value="883601.65"></deposit>
+    </client>
+    <client id="7579861" name="Deborah Allen">
+      <credit status="closed" value="569532.34"></credit>
+      <credit status="active" value="746546.25"><pay value="264196.82" date="2007-11-13"></pay><pay value="178321.50" date="2009-07-08"></pay></credit>
+      <deposit status="closed" value="601693.44"></deposit>
+      <deposit status="closed" value="891836.34"></deposit>
+      <credit status="closed" value="438361.73"></credit>
+      <deposit status="closed" value="970808.71"></deposit>
+      <credit status="active" value="251533.31"><pay value="57900.71" date="2016-06-04"></pay></credit>
+      <credit status="active" value="548803.25"><pay value="168420.65" date="2004-01-19"></pay><pay value="49851.64" date="2013-12-17"></pay><pay value="43603.54" date="2001-09-30"></pay></credit>
+      <deposit status="closed" value="486520.48"></deposit>
+      <credit status="active" value="703273.19"><pay value="87728.09" date="2011-12-13"></pay><pay value="45692.27" date="2009-03-11"></pay><pay value="27524.86" date="2008-07-15"></pay><pay value="112833.29" date="2013-01-13"></pay></credit>
+      <deposit status="active" value="643988.00"></deposit>
+      <credit status="closed" value="610695.43"></credit>
+      <deposit status="active" value="211005.61"></deposit>
+      <credit status="active" value="532805.30"><pay value="101636.66" date="2018-09-19"></pay><pay value="131425.43" date="2001-01-25"></pay><pay value="85118.36" date="2015-06-07"></pay></credit>
+      <credit status="closed" value="299243.22"></credit>
+      <credit status="closed" value="723755.59"></credit>
+      <deposit status="active" value="216410.26"></deposit>
+      <credit status="closed" value="807112.27"></credit>
+    </client>
+    <client id="9218505" name="Mary Durham">
+      <credit status="active" value="78447.08"><pay value="25253.49" date="2002-08-27"></pay></credit>
+      <deposit status="closed" value="363381.88"></deposit>
+      <credit status="active" value="222021.01"><pay value="140748.65" date="2003-01-02"></pay></credit>
+      <deposit status="active" value="708058.53"></deposit>
+      <credit status="active" value="942938.38"><pay value="132467.02" date="2012-10-28"></pay><pay value="57056.64" date="2003-04-04"></pay><pay value="212116.64" date="2011-07-12"></pay><pay value="177818.96" date="2004-10-04"></pay></credit>
+      <credit status="active" value="349948.48"><pay value="89771.13" date="2013-09-09"></pay><pay value="49639.02" date="2005-07-01"></pay><pay value="54858.40" date="2017-11-10"></pay></credit>
+      <credit status="active" value="851589.47"><pay value="412130.44" date="2005-05-18"></pay><pay value="27611.00" date="2009-05-17"></pay></credit>
+      <deposit status="closed" value="71957.99"></deposit>
+      <deposit status="active" value="975378.45"></deposit>
+      <credit status="closed" value="85161.90"></credit>
+      <credit status="active" value="231538.40"><pay value="93470.08" date="2010-06-30"></pay><pay value="105761.92" date="2011-04-06"></pay></credit>
+      <credit status="closed" value="130461.20"></credit>
+    </client>
+    <client id="9099768" name="Robin Mendoza">
+      <credit status="closed" value="207995.16"></credit>
+      <deposit status="active" value="900188.99"></deposit>
+      <credit status="closed" value="777393.18"></credit>
+      <credit status="active" value="917259.01"><pay value="286421.77" date="2012-08-30"></pay><pay value="77382.02" date="2002-09-17"></pay><pay value="30630.61" date="2018-07-25"></pay></credit>
+      <deposit status="closed" value="448086.85"></deposit>
+      <deposit status="active" value="493066.17"></deposit>
+      <deposit status="active" value="904844.41"></deposit>
+      <credit status="active" value="558958.48"><pay value="219928.39" date="2014-02-21"></pay><pay value="97983.65" date="2010-01-17"></pay></credit>
+      <credit status="active" value="783122.79"><pay value="102422.16" date="2001-04-20"></pay></credit>
+      <credit status="active" value="892945.99"><pay value="160528.82" date="2019-03-28"></pay><pay value="167306.57" date="2015-02-07"></pay><pay value="44537.95" date="2015-11-19"></pay><pay value="14892.79" date="2003-08-30"></pay></credit>
+      <credit status="active" value="840999.41"><pay value="78927.76" date="2012-07-23"></pay><pay value="379451.84" date="2018-02-15"></pay></credit>
+      <credit status="active" value="243554.62"><pay value="46829.17" date="2007-11-29"></pay><pay value="49501.47" date="2017-08-09"></pay><pay value="29330.05" date="2012-12-04"></pay></credit>
+      <deposit status="active" value="370771.18"></deposit>
+      <deposit status="active" value="615004.04"></deposit>
+      <credit status="active" value="979967.61"><pay value="22962.41" date="2006-05-22"></pay><pay value="91926.54" date="2016-11-21"></pay><pay value="128101.55" date="2013-08-28"></pay><pay value="72005.46" date="2012-12-21"></pay></credit>
+      <credit status="active" value="738334.85"><pay value="65968.99" date="2017-12-02"></pay><pay value="103928.11" date="2015-07-15"></pay><pay value="65934.70" date="2006-03-17"></pay></credit>
+      <credit status="active" value="473809.47"><pay value="148975.27" date="2017-11-08"></pay></credit>
+      <deposit status="active" value="731018.83"></deposit>
+    </client>
+  </manager>
+  <manager name="Fuentes" email="andrewbenjamin@brown.com" phone="1231566047">
+    <client id="9755496" name="Chris Ward">
+      <credit status="active" value="33959.87"><pay value="14724.56" date="2016-05-27"></pay><pay value="4564.68" date="2011-10-04"></pay></credit>
+      <deposit status="active" value="661621.94"></deposit>
+      <credit status="closed" value="393732.20"></credit>
+      <credit status="closed" value="299856.78"></credit>
+      <credit status="closed" value="728215.83"></credit>
+      <credit status="active" value="571166.43"><pay value="5326.15" date="2018-11-28"></pay><pay value="41450.88" date="2011-01-03"></pay><pay value="82147.13" date="2005-04-03"></pay><pay value="79637.68" date="2003-08-30"></pay></credit>
+      <credit status="closed" value="594038.04"></credit>
+      <credit status="closed" value="166338.88"></credit>
+      <credit status="active" value="603903.89"><pay value="144642.43" date="2007-09-28"></pay><pay value="15331.45" date="2012-03-07"></pay><pay value="21498.25" date="2015-08-03"></pay><pay value="31800.22" date="2015-05-14"></pay></credit>
+      <deposit status="active" value="943313.90"></deposit>
+      <credit status="active" value="939338.94"><pay value="268524.30" date="2018-02-11"></pay><pay value="59043.32" date="2008-04-08"></pay><pay value="102061.86" date="2019-01-25"></pay></credit>
+      <credit status="closed" value="544705.53"></credit>
+    </client>
+    <client id="3891509" name="William Sanders">
+      <credit status="closed" value="687060.83"></credit>
+      <credit status="closed" value="238422.83"></credit>
+      <deposit status="closed" value="558262.50"></deposit>
+      <credit status="active" value="459134.35"><pay value="30823.10" date="2014-07-19"></pay><pay value="28204.45" date="2017-11-24"></pay><pay value="42621.40" date="2018-09-29"></pay><pay value="55536.38" date="2002-06-16"></pay></credit>
+      <credit status="closed" value="963488.41"></credit>
+      <credit status="active" value="60509.46"><pay value="12491.51" date="2005-07-20"></pay><pay value="13190.68" date="2017-03-24"></pay></credit>
+      <deposit status="closed" value="718820.48"></deposit>
+      <credit status="active" value="790350.88"><pay value="38704.02" date="2011-08-23"></pay><pay value="43292.11" date="2003-06-06"></pay><pay value="144585.90" date="2009-09-06"></pay><pay value="111598.07" date="2010-08-18"></pay></credit>
+      <credit status="active" value="206312.24"><pay value="89099.81" date="2015-11-20"></pay><pay value="96928.39" date="2012-04-27"></pay></credit>
+      <credit status="closed" value="785324.57"></credit>
+      <deposit status="active" value="802526.10"></deposit>
+      <credit status="active" value="5972.43"><pay value="1730.55" date="2014-03-16"></pay></credit>
+      <deposit status="active" value="824319.75"></deposit>
+      <credit status="closed" value="653883.21"></credit>
+    </client>
+    <client id="6532786" name="Carl Lopez">
+      <deposit status="closed" value="135412.50"></deposit>
+      <credit status="active" value="685456.22"><pay value="46069.92" date="2018-02-09"></pay><pay value="147322.19" date="2017-01-23"></pay><pay value="24639.04" date="2016-05-14"></pay><pay value="74692.63" date="2007-01-20"></pay></credit>
+      <credit status="active" value="13761.26"><pay value="4434.28" date="2000-08-03"></pay></credit>
+      <credit status="active" value="426991.38"><pay value="228572.48" date="2006-01-21"></pay></credit>
+      <credit status="closed" value="975345.53"></credit>
+      <credit status="active" value="83832.81"><pay value="33000.01" date="2015-06-25"></pay><pay value="40931.66" date="2019-07-23"></pay></credit>
+      <credit status="active" value="349511.41"><pay value="204120.55" date="2010-03-22"></pay></credit>
+      <deposit status="closed" value="145639.85"></deposit>
+      <deposit status="active" value="747773.95"></deposit>
+      <credit status="closed" value="818479.20"></credit>
+      <credit status="closed" value="887175.08"></credit>
+    </client>
+    <client id="4874530" name="Kimberly Gay">
+      <credit status="active" value="817377.48"><pay value="150109.15" date="2011-12-02"></pay><pay value="46472.21" date="2010-07-08"></pay><pay value="178921.88" date="2005-03-29"></pay><pay value="136588.27" date="2017-06-26"></pay></credit>
+      <credit status="active" value="702821.00"><pay value="220556.96" date="2004-05-30"></pay></credit>
+      <credit status="active" value="792211.63"><pay value="191861.35" date="2016-07-04"></pay><pay value="236819.72" date="2010-05-29"></pay><pay value="222063.32" date="2005-06-15"></pay></credit>
+      <credit status="closed" value="262978.62"></credit>
+      <credit status="active" value="299761.74"><pay value="50481.24" date="2005-07-04"></pay><pay value="59406.53" date="2013-10-21"></pay><pay value="49544.48" date="2001-01-29"></pay><pay value="26070.35" date="2018-07-25"></pay></credit>
+      <credit status="active" value="121744.28"><pay value="112449.42" date="2002-09-04"></pay></credit>
+      <credit status="closed" value="73531.02"></credit>
+      <credit status="closed" value="145932.07"></credit>
+      <deposit status="active" value="806370.74"></deposit>
+      <deposit status="closed" value="239589.23"></deposit>
+      <credit status="closed" value="130511.34"></credit>
+      <credit status="closed" value="941687.06"></credit>
+      <credit status="closed" value="111439.33"></credit>
+      <credit status="closed" value="231678.79"></credit>
+      <deposit status="active" value="799485.13"></deposit>
+      <credit status="closed" value="411504.87"></credit>
+      <deposit status="closed" value="618818.11"></deposit>
+      <credit status="active" value="31696.93"><pay value="8995.38" date="2011-04-01"></pay><pay value="6588.21" date="2015-04-01"></pay><pay value="123.41" date="2016-04-09"></pay></credit>
+      <credit status="active" value="384406.05"><pay value="82966.48" date="2004-01-23"></pay><pay value="39607.31" date="2008-03-23"></pay><pay value="92883.02" date="2005-01-25"></pay><pay value="52631.04" date="2001-02-19"></pay></credit>
+    </client>
+    <client id="4088859" name="Corey Freeman">
+      <deposit status="active" value="343897.35"></deposit>
+      <credit status="closed" value="522401.24"></credit>
+      <credit status="active" value="888121.41"><pay value="256985.81" date="2015-02-04"></pay><pay value="146346.59" date="2019-01-02"></pay></credit>
+      <deposit status="closed" value="372936.44"></deposit>
+      <deposit status="active" value="522789.02"></deposit>
+      <credit status="active" value="779182.82"><pay value="134052.98" date="2007-11-27"></pay><pay value="151494.82" date="2013-11-21"></pay><pay value="182614.38" date="2010-06-25"></pay><pay value="22326.53" date="2014-03-24"></pay></credit>
+      <credit status="closed" value="761832.47"></credit>
+      <deposit status="closed" value="637302.94"></deposit>
+      <credit status="closed" value="925486.99"></credit>
+      <deposit status="active" value="317656.72"></deposit>
+      <credit status="closed" value="937071.34"></credit>
+    </client>
+    <client id="8010421" name="Scott Terry">
+      <credit status="active" value="944740.69"><pay value="172651.63" date="2000-11-16"></pay><pay value="455977.45" date="2016-02-13"></pay></credit>
+      <credit status="active" value="768773.02"><pay value="322313.60" date="2016-10-23"></pay><pay value="265705.26" date="2014-02-13"></pay></credit>
+      <credit status="closed" value="88932.41"></credit>
+      <deposit status="closed" value="383205.01"></deposit>
+      <credit status="active" value="292030.27"><pay value="8134.88" date="2001-11-16"></pay><pay value="41641.65" date="2001-05-22"></pay><pay value="69524.42" date="2009-11-02"></pay><pay value="36442.03" date="2018-02-02"></pay></credit>
+      <credit status="active" value="17309.65"><pay value="365.39" date="2006-08-13"></pay></credit>
+      <credit status="active" value="395453.53"><pay value="45878.81" date="2014-01-21"></pay><pay value="110494.66" date="2000-07-16"></pay><pay value="59093.51" date="2005-03-05"></pay></credit>
+      <credit status="active" value="358402.74"><pay value="34836.59" date="2001-07-15"></pay><pay value="2215.37" date="2001-12-19"></pay><pay value="117513.00" date="2007-01-27"></pay></credit>
+      <deposit status="closed" value="598139.15"></deposit>
+      <deposit status="closed" value="856868.15"></deposit>
+      <credit status="closed" value="292388.55"></credit>
+      <deposit status="closed" value="616599.80"></deposit>
+    </client>
+    <client id="8824785" name="Kimberly Rodriguez">
+      <credit status="closed" value="797297.65"></credit>
+      <credit status="active" value="883755.86"><pay value="172744.65" date="2008-12-03"></pay><pay value="118552.78" date="2002-07-01"></pay><pay value="200140.16" date="2011-07-04"></pay><pay value="191670.02" date="2017-05-26"></pay></credit>
+      <credit status="closed" value="891950.80"></credit>
+      <deposit status="active" value="142437.42"></deposit>
+      <credit status="closed" value="151682.93"></credit>
+      <credit status="active" value="661117.57"><pay value="31272.60" date="2006-05-02"></pay><pay value="60396.86" date="2018-02-19"></pay><pay value="30072.74" date="2010-01-22"></pay><pay value="161809.37" date="2005-01-27"></pay></credit>
+      <deposit status="active" value="607494.34"></deposit>
+      <credit status="active" value="153072.22"><pay value="4638.56" date="2012-01-13"></pay><pay value="29746.90" date="2000-08-24"></pay><pay value="33067.63" date="2007-05-09"></pay><pay value="16094.27" date="2014-04-29"></pay></credit>
+      <deposit status="active" value="240118.18"></deposit>
+      <credit status="active" value="988709.70"><pay value="29509.80" date="2012-01-30"></pay><pay value="82322.97" date="2007-03-25"></pay></credit>
+      <credit status="active" value="548206.12"><pay value="133854.96" date="2011-10-28"></pay><pay value="122852.98" date="2008-01-23"></pay></credit>
+      <deposit status="closed" value="734950.01"></deposit>
+      <credit status="closed" value="397188.96"></credit>
+      <deposit status="closed" value="590277.80"></deposit>
+      <deposit status="closed" value="67728.31"></deposit>
+      <credit status="active" value="143307.43"><pay value="37773.42" date="2018-03-09"></pay><pay value="25477.46" date="2013-08-01"></pay></credit>
+      <deposit status="closed" value="839483.94"></deposit>
+      <credit status="active" value="814219.80"><pay value="667038.88" date="2015-09-23"></pay></credit>
+    </client>
+    <client id="8820352" name="Jerry Sanchez">
+      <deposit status="closed" value="787375.95"></deposit>
+      <deposit status="active" value="66339.00"></deposit>
+      <credit status="active" value="79793.54"><pay value="24577.19" date="2009-11-05"></pay><pay value="12260.23" date="2000-03-15"></pay><pay value="15431.31" date="2016-09-14"></pay></credit>
+      <credit status="active" value="190269.29"><pay value="183665.46" date="2019-05-08"></pay></credit>
+      <credit status="closed" value="577604.40"></credit>
+      <credit status="closed" value="271081.84"></credit>
+      <credit status="active" value="823455.49"><pay value="64796.40" date="2019-05-15"></pay><pay value="154137.89" date="2002-09-22"></pay><pay value="188742.79" date="2011-06-22"></pay><pay value="122878.27" date="2015-04-05"></pay></credit>
+      <credit status="active" value="861502.28"><pay value="202637.44" date="2004-11-18"></pay><pay value="273387.09" date="2010-04-05"></pay><pay value="279419.39" date="2011-08-08"></pay></credit>
+      <deposit status="closed" value="133097.83"></deposit>
+      <credit status="closed" value="112090.22"></credit>
+      <credit status="active" value="235564.75"><pay value="90203.52" date="2003-09-12"></pay><pay value="51270.04" date="2019-06-12"></pay></credit>
+      <credit status="active" value="648399.86"><pay value="69408.22" date="2011-07-06"></pay><pay value="165016.12" date="2018-08-05"></pay><pay value="152773.92" date="2006-11-11"></pay></credit>
+    </client>
+    <client id="1833094" name="Matthew Lang">
+      <credit status="active" value="52109.27"><pay value="15020.15" date="2005-03-26"></pay><pay value="10267.44" date="2012-09-02"></pay><pay value="16961.08" date="2006-11-18"></pay></credit>
+      <credit status="closed" value="302945.99"></credit>
+      <credit status="active" value="426615.17"><pay value="37848.40" date="2005-01-16"></pay><pay value="70750.56" date="2018-06-23"></pay><pay value="32148.50" date="2009-12-15"></pay><pay value="15175.12" date="2017-12-24"></pay></credit>
+      <deposit status="active" value="853506.57"></deposit>
+      <credit status="closed" value="600272.93"></credit>
+      <credit status="closed" value="918625.71"></credit>
+      <credit status="closed" value="241127.38"></credit>
+      <credit status="closed" value="296670.76"></credit>
+      <credit status="active" value="987053.00"><pay value="184637.24" date="2003-07-19"></pay></credit>
+      <credit status="closed" value="455614.39"></credit>
+      <deposit status="closed" value="193222.30"></deposit>
+      <credit status="closed" value="470039.85"></credit>
+      <deposit status="active" value="792754.63"></deposit>
+      <deposit status="active" value="974922.66"></deposit>
+      <credit status="active" value="632775.16"><pay value="341799.35" date="2010-04-20"></pay></credit>
+      <deposit status="active" value="288196.71"></deposit>
+    </client>
+    <client id="7311660" name="Veronica Gardner">
+      <deposit status="closed" value="154131.29"></deposit>
+      <deposit status="active" value="970027.99"></deposit>
+      <credit status="closed" value="314606.84"></credit>
+      <credit status="active" value="454804.00"><pay value="102417.70" date="2004-01-27"></pay><pay value="36601.84" date="2003-02-05"></pay><pay value="16149.96" date="2017-03-05"></pay><pay value="67274.32" date="2005-06-06"></pay></credit>
+      <credit status="closed" value="393610.04"></credit>
+      <deposit status="closed" value="54995.06"></deposit>
+      <deposit status="active" value="235549.03"></deposit>
+      <credit status="closed" value="846196.79"></credit>
+      <deposit status="active" value="951258.71"></deposit>
+      <credit status="closed" value="776233.85"></credit>
+      <credit status="closed" value="174721.11"></credit>
+      <deposit status="closed" value="337029.12"></deposit>
+      <credit status="closed" value="315482.28"></credit>
+      <deposit status="active" value="646547.13"></deposit>
+      <deposit status="active" value="850486.75"></deposit>
+    </client>
+  </manager>
+  <manager name="Jones" email="timothy40@hotmail.com" phone="424-298-8169x276">
+    <client id="8731439" name="Edwin Jones">
+      <deposit status="active" value="531877.19"></deposit>
+      <credit status="closed" value="624931.70"></credit>
+      <deposit status="active" value="197226.31"></deposit>
+      <credit status="closed" value="197475.33"></credit>
+      <deposit status="active" value="396030.89"></deposit>
+      <credit status="active" value="841737.69"><pay value="332767.73" date="2013-02-01"></pay></credit>
+      <deposit status="closed" value="828385.51"></deposit>
+      <deposit status="closed" value="229222.38"></deposit>
+      <credit status="active" value="100519.83"><pay value="10591.92" date="2013-06-12"></pay><pay value="4894.69" date="2001-03-27"></pay></credit>
+      <credit status="active" value="397486.22"><pay value="95069.70" date="2011-02-05"></pay><pay value="35431.70" date="2004-03-04"></pay><pay value="92059.61" date="2006-06-13"></pay><pay value="3983.06" date="2000-05-25"></pay></credit>
+      <credit status="closed" value="711532.50"></credit>
+      <deposit status="active" value="799232.74"></deposit>
+      <credit status="active" value="318020.78"><pay value="20567.27" date="2012-04-27"></pay><pay value="21659.13" date="2007-12-29"></pay><pay value="73553.39" date="2002-02-07"></pay><pay value="33941.97" date="2008-01-14"></pay></credit>
+    </client>
+    <client id="9699483" name="Joseph Hess">
+      <credit status="active" value="580487.68"><pay value="448977.17" date="2003-03-03"></pay></credit>
+      <credit status="closed" value="54983.69"></credit>
+      <credit status="active" value="436140.43"><pay value="158257.49" date="2005-03-11"></pay></credit>
+      <credit status="closed" value="89402.82"></credit>
+      <credit status="closed" value="241987.56"></credit>
+      <credit status="closed" value="207603.34"></credit>
+      <credit status="active" value="353968.40"><pay value="39889.58" date="2004-01-03"></pay><pay value="36758.64" date="2012-02-23"></pay></credit>
+      <credit status="active" value="795227.26"><pay value="189322.38" date="2006-12-06"></pay><pay value="116373.71" date="2015-05-19"></pay><pay value="43472.88" date="2005-07-20"></pay></credit>
+      <credit status="closed" value="960701.36"></credit>
+      <credit status="active" value="359584.52"><pay value="65800.60" date="2011-07-20"></pay></credit>
+      <deposit status="active" value="151712.55"></deposit>
+      <deposit status="active" value="652401.69"></deposit>
+      <deposit status="closed" value="179396.23"></deposit>
+      <credit status="closed" value="165136.30"></credit>
+    </client>
+    <client id="5724285" name="Kenneth Ellis">
+      <deposit status="active" value="769724.30"></deposit>
+      <credit status="active" value="834116.32"><pay value="205353.28" date="2010-01-25"></pay><pay value="111669.68" date="2012-09-20"></pay><pay value="33156.38" date="2017-03-09"></pay><pay value="13240.89" date="2016-07-02"></pay></credit>
+      <credit status="closed" value="631518.85"></credit>
+      <credit status="active" value="730623.39"><pay value="234807.93" date="2014-11-01"></pay><pay value="168438.08" date="2014-12-18"></pay><pay value="104099.18" date="2017-12-12"></pay></credit>
+      <deposit status="active" value="662129.97"></deposit>
+      <deposit status="closed" value="685406.03"></deposit>
+      <credit status="active" value="530233.92"><pay value="50201.32" date="2019-03-24"></pay><pay value="9472.56" date="2000-09-12"></pay></credit>
+      <deposit status="closed" value="37928.79"></deposit>
+      <credit status="closed" value="407855.60"></credit>
+      <deposit status="closed" value="651151.11"></deposit>
+      <credit status="closed" value="612219.58"></credit>
+    </client>
+    <client id="7864779" name="Frank Williams">
+      <credit status="active" value="429243.87"><pay value="76378.12" date="2006-10-29"></pay><pay value="70114.58" date="2016-08-01"></pay><pay value="37253.19" date="2012-10-20"></pay><pay value="4836.41" date="2012-12-19"></pay></credit>
+      <deposit status="closed" value="720284.74"></deposit>
+      <credit status="active" value="242748.20"><pay value="11520.56" date="2019-05-28"></pay></credit>
+      <credit status="active" value="357967.37"><pay value="161211.87" date="2000-05-23"></pay></credit>
+      <credit status="active" value="498646.56"><pay value="130244.40" date="2014-04-29"></pay><pay value="235341.94" date="2019-01-19"></pay></credit>
+      <deposit status="active" value="30151.48"></deposit>
+      <credit status="active" value="579473.32"><pay value="217378.37" date="2006-08-10"></pay><pay value="229275.50" date="2013-05-03"></pay></credit>
+      <deposit status="closed" value="181380.83"></deposit>
+      <credit status="active" value="516406.66"><pay value="125169.80" date="2018-03-14"></pay><pay value="9614.89" date="2004-02-28"></pay><pay value="142211.88" date="2019-06-04"></pay></credit>
+      <credit status="active" value="501548.53"><pay value="82774.44" date="2016-06-26"></pay><pay value="57677.31" date="2013-11-30"></pay><pay value="119368.81" date="2014-11-27"></pay><pay value="113855.13" date="2008-10-13"></pay></credit>
+      <credit status="active" value="725955.02"><pay value="161040.39" date="2013-02-14"></pay><pay value="33476.92" date="2014-03-18"></pay><pay value="24005.07" date="2007-11-05"></pay></credit>
+      <deposit status="active" value="710551.51"></deposit>
+      <credit status="active" value="680868.06"><pay value="502226.41" date="2009-10-21"></pay></credit>
+      <credit status="active" value="337948.67"><pay value="30879.03" date="2007-05-03"></pay><pay value="74186.66" date="2012-01-07"></pay><pay value="53091.00" date="2004-03-26"></pay><pay value="49137.79" date="2002-03-08"></pay></credit>
+      <credit status="closed" value="290644.20"></credit>
+      <credit status="closed" value="403054.77"></credit>
+      <deposit status="closed" value="225941.26"></deposit>
+    </client>
+    <client id="2796817" name="Richard Mitchell">
+      <credit status="closed" value="868999.90"></credit>
+      <deposit status="closed" value="849677.40"></deposit>
+      <deposit status="active" value="59072.08"></deposit>
+      <deposit status="closed" value="592316.71"></deposit>
+      <credit status="active" value="25650.78"><pay value="194.74" date="2011-03-02"></pay><pay value="1285.49" date="2012-10-13"></pay><pay value="5407.59" date="2019-02-19"></pay><pay value="132.10" date="2018-01-31"></pay></credit>
+      <credit status="closed" value="221009.07"></credit>
+      <credit status="active" value="849112.99"><pay value="40156.35" date="2004-05-11"></pay><pay value="267762.54" date="2003-07-04"></pay></credit>
+      <deposit status="active" value="254951.33"></deposit>
+      <credit status="closed" value="38297.19"></credit>
+      <deposit status="active" value="481107.03"></deposit>
+    </client>
+    <client id="9188843" name="Tyler Wright">
+      <credit status="active" value="38566.37"><pay value="3564.97" date="2015-03-01"></pay><pay value="6644.39" date="2016-03-03"></pay><pay value="6209.54" date="2018-07-26"></pay><pay value="2808.04" date="2015-12-15"></pay></credit>
+      <credit status="closed" value="991354.86"></credit>
+      <credit status="closed" value="727387.43"></credit>
+      <credit status="closed" value="591996.23"></credit>
+      <deposit status="active" value="66487.14"></deposit>
+      <deposit status="closed" value="51894.80"></deposit>
+      <credit status="active" value="865944.52"><pay value="15274.06" date="2001-05-24"></pay><pay value="283048.01" date="2006-09-24"></pay></credit>
+      <credit status="closed" value="459987.27"></credit>
+      <credit status="active" value="429905.23"><pay value="82132.31" date="2008-05-20"></pay><pay value="100698.87" date="2009-07-08"></pay><pay value="65882.77" date="2008-04-24"></pay><pay value="1195.72" date="2005-06-22"></pay></credit>
+      <credit status="active" value="838937.90"><pay value="445449.35" date="2018-10-24"></pay></credit>
+      <deposit status="closed" value="480671.41"></deposit>
+      <credit status="closed" value="981065.78"></credit>
+      <deposit status="closed" value="784176.41"></deposit>
+      <credit status="active" value="863270.32"><pay value="233251.85" date="2013-07-02"></pay><pay value="218047.12" date="2002-01-29"></pay><pay value="206431.54" date="2019-08-04"></pay></credit>
+      <deposit status="closed" value="987032.39"></deposit>
+      <credit status="closed" value="665064.48"></credit>
+      <deposit status="closed" value="917748.25"></deposit>
+    </client>
+    <client id="3098475" name="Christina Hall">
+      <deposit status="closed" value="948813.54"></deposit>
+      <credit status="active" value="755186.35"><pay value="169306.58" date="2012-04-26"></pay><pay value="25428.49" date="2003-07-25"></pay><pay value="57278.49" date="2000-11-16"></pay><pay value="54875.64" date="2006-12-11"></pay></credit>
+      <deposit status="closed" value="210700.61"></deposit>
+      <credit status="active" value="111608.09"><pay value="13475.10" date="2017-09-14"></pay><pay value="14670.06" date="2000-07-10"></pay><pay value="12657.22" date="2003-07-15"></pay><pay value="8437.66" date="2006-02-08"></pay></credit>
+      <credit status="active" value="374251.11"><pay value="65043.83" date="2011-07-02"></pay><pay value="46998.61" date="2016-04-16"></pay><pay value="78294.47" date="2001-10-05"></pay></credit>
+      <credit status="active" value="819036.82"><pay value="11616.83" date="2000-06-23"></pay><pay value="13878.61" date="2016-03-25"></pay></credit>
+      <credit status="active" value="582127.94"><pay value="13304.81" date="2007-09-05"></pay><pay value="137847.19" date="2012-11-07"></pay><pay value="109564.16" date="2002-04-05"></pay></credit>
+      <credit status="active" value="459077.22"><pay value="54922.46" date="2006-05-21"></pay></credit>
+      <credit status="closed" value="80142.17"></credit>
+      <deposit status="closed" value="718547.29"></deposit>
+    </client>
+    <client id="1609315" name="John Thomas MD">
+      <credit status="closed" value="947022.77"></credit>
+      <deposit status="active" value="13238.71"></deposit>
+      <credit status="closed" value="700674.96"></credit>
+      <deposit status="closed" value="628317.57"></deposit>
+      <credit status="active" value="84375.52"><pay value="33792.66" date="2007-11-30"></pay></credit>
+      <credit status="active" value="667096.05"><pay value="117170.88" date="2003-08-28"></pay></credit>
+      <credit status="closed" value="930965.57"></credit>
+      <credit status="active" value="865998.80"><pay value="25339.22" date="2007-07-20"></pay><pay value="224835.80" date="2003-08-14"></pay><pay value="250151.22" date="2004-12-18"></pay></credit>
+      <deposit status="closed" value="950668.65"></deposit>
+      <deposit status="active" value="608674.07"></deposit>
+      <credit status="active" value="989670.85"><pay value="914701.87" date="2003-12-12"></pay></credit>
+      <deposit status="active" value="766782.37"></deposit>
+      <credit status="closed" value="534554.82"></credit>
+      <credit status="active" value="430465.29"><pay value="349276.77" date="2012-06-20"></pay></credit>
+      <credit status="active" value="927418.03"><pay value="193590.06" date="2010-05-28"></pay><pay value="386888.80" date="2017-04-17"></pay></credit>
+      <credit status="active" value="719972.03"><pay value="50225.16" date="2014-10-18"></pay><pay value="157159.61" date="2008-12-18"></pay></credit>
+      <credit status="active" value="257849.39"><pay value="60440.49" date="2004-06-29"></pay><pay value="80549.69" date="2010-06-14"></pay><pay value="32042.62" date="2002-07-05"></pay></credit>
+      <credit status="closed" value="329497.23"></credit>
+      <deposit status="active" value="61724.75"></deposit>
+      <credit status="active" value="711221.68"><pay value="22448.70" date="2010-03-08"></pay><pay value="170894.95" date="2002-10-21"></pay></credit>
+    </client>
+    <client id="2017951" name="Sierra Chaney">
+      <credit status="closed" value="752054.02"></credit>
+      <deposit status="closed" value="363957.02"></deposit>
+      <credit status="active" value="471191.38"><pay value="224071.42" date="2001-02-21"></pay><pay value="234968.73" date="2000-05-07"></pay></credit>
+      <deposit status="active" value="954717.46"></deposit>
+      <credit status="active" value="918431.34"><pay value="209322.92" date="2011-12-02"></pay><pay value="53901.21" date="2009-07-23"></pay><pay value="13220.51" date="2002-08-13"></pay><pay value="182940.24" date="2018-11-15"></pay></credit>
+      <credit status="closed" value="418963.54"></credit>
+      <deposit status="closed" value="247617.48"></deposit>
+      <deposit status="active" value="544619.41"></deposit>
+      <deposit status="active" value="805827.17"></deposit>
+      <credit status="active" value="271617.51"><pay value="49656.85" date="2002-11-14"></pay><pay value="107440.00" date="2015-07-03"></pay></credit>
+      <credit status="closed" value="713985.60"></credit>
+      <credit status="active" value="994165.78"><pay value="800789.28" date="2015-12-14"></pay></credit>
+      <deposit status="active" value="101358.86"></deposit>
+      <credit status="closed" value="311489.57"></credit>
+      <credit status="active" value="592930.08"><pay value="43461.22" date="2018-11-20"></pay><pay value="16491.20" date="2005-12-31"></pay><pay value="161817.71" date="2007-02-06"></pay></credit>
+      <credit status="closed" value="654244.50"></credit>
+    </client>
+  </manager>
+  <manager name="Johnson" email="thomas41@yahoo.com" phone="(982)824-8986">
+    <client id="5490564" name="Christopher Hurley">
+      <deposit status="active" value="185054.21"></deposit>
+      <deposit status="active" value="491759.10"></deposit>
+      <deposit status="active" value="882420.58"></deposit>
+      <deposit status="active" value="484225.02"></deposit>
+      <deposit status="active" value="329521.46"></deposit>
+      <credit status="closed" value="713280.12"></credit>
+      <deposit status="closed" value="285022.97"></deposit>
+      <credit status="active" value="237326.86"><pay value="98836.08" date="2011-07-11"></pay><pay value="10282.27" date="2001-08-21"></pay></credit>
+      <credit status="active" value="265132.69"><pay value="28761.66" date="2013-12-31"></pay><pay value="42215.25" date="2017-11-09"></pay><pay value="5117.74" date="2006-03-27"></pay><pay value="19898.61" date="2018-10-11"></pay></credit>
+      <credit status="active" value="427299.90"><pay value="102417.46" date="2016-11-13"></pay><pay value="2192.60" date="2004-03-26"></pay><pay value="41070.38" date="2003-03-28"></pay></credit>
+      <credit status="active" value="166723.35"><pay value="21879.18" date="2001-02-16"></pay><pay value="2533.49" date="2017-09-16"></pay><pay value="9552.39" date="2018-06-03"></pay></credit>
+      <credit status="closed" value="58348.02"></credit>
+      <deposit status="active" value="856428.91"></deposit>
+      <credit status="closed" value="10229.62"></credit>
+      <credit status="active" value="44419.43"><pay value="20188.77" date="2009-10-08"></pay><pay value="2666.86" date="2009-05-03"></pay></credit>
+      <deposit status="active" value="915691.60"></deposit>
+      <credit status="active" value="791928.28"><pay value="226756.53" date="2017-09-23"></pay><pay value="66480.91" date="2000-10-26"></pay></credit>
+      <credit status="active" value="510735.20"><pay value="152679.39" date="2014-08-21"></pay><pay value="192891.15" date="2004-01-19"></pay></credit>
+    </client>
+    <client id="3508285" name="Linda Guzman">
+      <credit status="closed" value="308736.89"></credit>
+      <credit status="closed" value="419683.42"></credit>
+      <credit status="active" value="361451.36"><pay value="140441.36" date="2005-07-02"></pay><pay value="51316.27" date="2014-10-12"></pay></credit>
+      <deposit status="active" value="200006.37"></deposit>
+      <credit status="active" value="83204.18"><pay value="47545.79" date="2018-06-16"></pay></credit>
+      <deposit status="active" value="62946.53"></deposit>
+      <credit status="active" value="767879.15"><pay value="26627.35" date="2005-01-16"></pay><pay value="188508.48" date="2014-11-26"></pay><pay value="34164.75" date="2004-08-31"></pay><pay value="116707.77" date="2016-09-29"></pay></credit>
+      <deposit status="closed" value="758524.50"></deposit>
+      <credit status="closed" value="230064.77"></credit>
+      <deposit status="closed" value="835170.55"></deposit>
+    </client>
+    <client id="5271096" name="Lindsay Johnson">
+      <deposit status="closed" value="749819.74"></deposit>
+      <credit status="active" value="177954.26"><pay value="174488.91" date="2015-07-03"></pay></credit>
+      <credit status="active" value="192293.94"><pay value="41631.17" date="2017-02-27"></pay><pay value="17492.45" date="2011-12-28"></pay><pay value="24864.99" date="2005-08-27"></pay><pay value="1391.83" date="2015-04-02"></pay></credit>
+      <deposit status="closed" value="576200.84"></deposit>
+      <credit status="active" value="434421.63"><pay value="116896.78" date="2001-03-05"></pay><pay value="113897.42" date="2009-10-09"></pay><pay value="132762.37" date="2012-09-02"></pay></credit>
+      <deposit status="closed" value="671312.60"></deposit>
+      <credit status="active" value="418047.00"><pay value="49387.31" date="2015-10-29"></pay><pay value="7577.94" date="2009-11-29"></pay><pay value="69058.94" date="2001-11-19"></pay><pay value="39436.85" date="2003-06-11"></pay></credit>
+      <credit status="closed" value="206169.43"></credit>
+      <deposit status="active" value="616158.84"></deposit>
+      <deposit status="active" value="962502.58"></deposit>
+      <credit status="active" value="940873.30"><pay value="20559.79" date="2004-10-04"></pay><pay value="19795.88" date="2019-06-28"></pay><pay value="154969.55" date="2017-09-27"></pay><pay value="15511.56" date="2011-01-26"></pay></credit>
+      <credit status="closed" value="880765.40"></credit>
+      <credit status="active" value="88925.68"><pay value="46067.47" date="2008-03-20"></pay></credit>
+      <credit status="active" value="273918.51"><pay value="22466.53" date="2017-01-15"></pay><pay value="6207.04" date="2019-06-05"></pay><pay value="31240.10" date="2011-01-31"></pay><pay value="31524.11" date="2005-07-18"></pay></credit>
+      <credit status="closed" value="470698.54"></credit>
+      <credit status="closed" value="227484.10"></credit>
+      <credit status="closed" value="189972.90"></credit>
+    </client>
+    <client id="1507600" name="Yesenia Lin">
+      <credit status="closed" value="637024.52"></credit>
+      <credit status="closed" value="429789.77"></credit>
+      <credit status="active" value="172204.04"><pay value="1905.10" date="2002-09-03"></pay></credit>
+      <deposit status="closed" value="886510.85"></deposit>
+      <credit status="active" value="326765.10"><pay value="16808.65" date="2012-01-23"></pay><pay value="38553.70" date="2014-04-22"></pay><pay value="32033.87" date="2004-07-16"></pay><pay value="17537.65" date="2008-12-13"></pay></credit>
+      <deposit status="closed" value="228824.37"></deposit>
+      <credit status="active" value="621132.01"><pay value="486580.12" date="2018-04-26"></pay></credit>
+      <credit status="closed" value="172030.09"></credit>
+      <deposit status="active" value="223539.43"></deposit>
+      <credit status="active" value="956494.20"><pay value="112761.99" date="2003-09-08"></pay><pay value="267178.91" date="2015-12-14"></pay></credit>
+      <credit status="active" value="72949.52"><pay value="1834.89" date="2001-07-04"></pay><pay value="14111.31" date="2000-07-10"></pay><pay value="9909.23" date="2009-03-19"></pay><pay value="16278.26" date="2017-11-17"></pay></credit>
+      <deposit status="active" value="524730.78"></deposit>
+      <deposit status="closed" value="862688.10"></deposit>
+      <deposit status="active" value="81222.72"></deposit>
+    </client>
+    <client id="3824451" name="Michele Zavala">
+      <credit status="active" value="695615.83"><pay value="68882.63" date="2018-04-12"></pay><pay value="162508.27" date="2000-08-18"></pay><pay value="85692.99" date="2010-08-19"></pay><pay value="83214.11" date="2012-01-13"></pay></credit>
+      <credit status="active" value="693036.58"><pay value="309275.01" date="2017-11-22"></pay><pay value="44107.52" date="2010-12-17"></pay></credit>
+      <credit status="active" value="284985.93"><pay value="23484.09" date="2017-01-03"></pay><pay value="3669.06" date="2003-04-01"></pay><pay value="67689.53" date="2002-08-06"></pay><pay value="15471.73" date="2001-08-28"></pay></credit>
+      <credit status="active" value="247369.33"><pay value="98592.32" date="2018-01-20"></pay><pay value="103482.95" date="2007-03-19"></pay></credit>
+      <credit status="active" value="718013.83"><pay value="105478.43" date="2014-09-01"></pay><pay value="342.30" date="2016-10-26"></pay></credit>
+      <credit status="active" value="97416.80"><pay value="37922.12" date="2004-04-02"></pay><pay value="19440.14" date="2014-07-03"></pay></credit>
+      <deposit status="closed" value="803015.91"></deposit>
+      <deposit status="active" value="190813.56"></deposit>
+      <credit status="closed" value="670507.65"></credit>
+      <credit status="active" value="350881.34"><pay value="39102.45" date="2006-04-15"></pay><pay value="35862.78" date="2019-01-22"></pay><pay value="109094.12" date="2014-10-14"></pay></credit>
+      <credit status="closed" value="570057.10"></credit>
+      <credit status="active" value="642802.76"><pay value="11657.60" date="2018-04-14"></pay><pay value="316969.09" date="2013-08-13"></pay></credit>
+    </client>
+    <client id="8632098" name="Jennifer Smith">
+      <credit status="active" value="918336.77"><pay value="182522.35" date="2009-12-05"></pay><pay value="142255.08" date="2014-10-06"></pay><pay value="22021.19" date="2013-10-15"></pay></credit>
+      <deposit status="closed" value="841068.76"></deposit>
+      <credit status="active" value="839843.38"><pay value="184535.20" date="2007-01-22"></pay><pay value="90871.38" date="2008-12-22"></pay><pay value="130105.78" date="2009-09-12"></pay></credit>
+      <credit status="closed" value="369654.24"></credit>
+      <credit status="closed" value="922282.76"></credit>
+      <credit status="closed" value="375404.08"></credit>
+      <credit status="closed" value="378738.23"></credit>
+      <credit status="active" value="601704.72"><pay value="39989.88" date="2003-03-31"></pay><pay value="57640.87" date="2002-04-02"></pay><pay value="72829.97" date="2010-06-14"></pay><pay value="74184.54" date="2002-04-28"></pay></credit>
+      <credit status="active" value="640979.87"><pay value="89095.41" date="2013-12-04"></pay></credit>
+      <credit status="active" value="111855.45"><pay value="1184.35" date="2011-11-26"></pay><pay value="24891.70" date="2016-07-01"></pay><pay value="197.56" date="2016-12-12"></pay></credit>
+      <credit status="active" value="788622.35"><pay value="320388.03" date="2018-06-02"></pay><pay value="92809.51" date="2019-05-26"></pay></credit>
+      <credit status="active" value="19651.35"><pay value="12725.16" date="2012-10-02"></pay></credit>
+      <credit status="closed" value="281536.40"></credit>
+      <credit status="active" value="956579.74"><pay value="561236.43" date="2016-06-23"></pay></credit>
+      <deposit status="closed" value="72293.07"></deposit>
+      <deposit status="closed" value="857034.40"></deposit>
+      <deposit status="active" value="774243.08"></deposit>
+      <credit status="active" value="932016.13"><pay value="181758.98" date="2008-08-31"></pay><pay value="160043.31" date="2015-04-25"></pay><pay value="191872.87" date="2012-03-30"></pay></credit>
+    </client>
+    <client id="3011929" name="Stephen Meyers">
+      <credit status="closed" value="4954.47"></credit>
+      <credit status="active" value="864014.49"><pay value="403920.95" date="2016-11-20"></pay><pay value="151838.74" date="2009-03-27"></pay></credit>
+      <credit status="closed" value="63394.22"></credit>
+      <credit status="active" value="395346.11"><pay value="27023.73" date="2009-07-14"></pay><pay value="92602.75" date="2006-02-05"></pay><pay value="20309.80" date="2017-05-04"></pay><pay value="92932.79" date="2017-01-22"></pay></credit>
+      <credit status="closed" value="657337.06"></credit>
+      <credit status="closed" value="613418.40"></credit>
+      <credit status="active" value="477359.42"><pay value="3701.81" date="2017-09-30"></pay><pay value="153743.06" date="2002-10-03"></pay></credit>
+      <deposit status="active" value="380426.58"></deposit>
+      <credit status="active" value="995102.05"><pay value="410881.02" date="2009-01-27"></pay></credit>
+      <deposit status="closed" value="244946.86"></deposit>
+      <credit status="closed" value="723041.21"></credit>
+      <credit status="active" value="139271.58"><pay value="21752.99" date="2011-05-31"></pay><pay value="28014.21" date="2012-06-26"></pay><pay value="33498.66" date="2017-07-03"></pay><pay value="26806.69" date="2008-11-20"></pay></credit>
+      <deposit status="active" value="325561.47"></deposit>
+      <credit status="closed" value="396937.90"></credit>
+      <credit status="closed" value="457412.99"></credit>
+      <credit status="active" value="431875.70"><pay value="97910.38" date="2015-11-14"></pay><pay value="36662.36" date="2009-06-24"></pay><pay value="54549.49" date="2008-03-13"></pay></credit>
+      <credit status="active" value="931330.27"><pay value="577252.04" date="2000-07-15"></pay></credit>
+    </client>
+    <client id="1226524" name="Cristian Waters">
+      <credit status="active" value="588558.88"><pay value="28267.57" date="2005-06-22"></pay><pay value="87395.41" date="2019-08-30"></pay><pay value="104803.09" date="2009-02-27"></pay><pay value="40373.12" date="2007-06-02"></pay></credit>
+      <credit status="closed" value="339009.13"></credit>
+      <credit status="closed" value="641146.10"></credit>
+      <credit status="active" value="738756.41"><pay value="85765.50" date="2001-08-17"></pay><pay value="125174.15" date="2004-11-23"></pay><pay value="181998.15" date="2003-06-23"></pay><pay value="11170.20" date="2011-09-30"></pay></credit>
+      <credit status="active" value="304587.34"><pay value="2141.55" date="2003-03-14"></pay><pay value="21039.35" date="2015-11-21"></pay><pay value="4310.09" date="2002-08-14"></pay></credit>
+      <credit status="closed" value="895904.52"></credit>
+      <deposit status="active" value="960100.41"></deposit>
+      <credit status="active" value="734493.18"><pay value="356186.07" date="2013-04-07"></pay></credit>
+      <deposit status="active" value="207344.77"></deposit>
+      <credit status="closed" value="523561.96"></credit>
+      <credit status="active" value="325348.85"><pay value="19167.73" date="2014-02-23"></pay><pay value="92757.20" date="2018-07-10"></pay></credit>
+      <deposit status="closed" value="702980.72"></deposit>
+      <deposit status="closed" value="389395.87"></deposit>
+      <deposit status="active" value="854854.72"></deposit>
+    </client>
+  </manager>
+  <manager name="Thompson" email="andrew54@gmail.com" phone="001-830-195-5801">
+    <client id="9098591" name="Ryan Keller">
+      <credit status="closed" value="374349.01"></credit>
+      <credit status="closed" value="376381.67"></credit>
+      <credit status="closed" value="967236.27"></credit>
+      <credit status="closed" value="86534.80"></credit>
+      <credit status="closed" value="414964.03"></credit>
+      <credit status="active" value="207083.55"><pay value="30419.57" date="2013-12-04"></pay><pay value="35697.64" date="2002-12-04"></pay></credit>
+      <deposit status="active" value="498057.13"></deposit>
+      <deposit status="closed" value="328927.27"></deposit>
+      <deposit status="closed" value="320057.59"></deposit>
+      <credit status="closed" value="882587.78"></credit>
+      <deposit status="closed" value="362506.93"></deposit>
+    </client>
+    <client id="5220720" name="Pamela Miller">
+      <credit status="closed" value="770829.13"></credit>
+      <credit status="active" value="803209.49"><pay value="21165.21" date="2012-02-28"></pay><pay value="163717.37" date="2012-10-08"></pay><pay value="151049.49" date="2005-06-18"></pay><pay value="16379.45" date="2013-09-24"></pay></credit>
+      <credit status="active" value="36099.16"><pay value="9200.01" date="2005-07-07"></pay><pay value="10487.03" date="2012-06-14"></pay><pay value="8232.95" date="2005-10-11"></pay></credit>
+      <deposit status="closed" value="793807.15"></deposit>
+      <credit status="active" value="635144.55"><pay value="36082.16" date="2015-03-10"></pay><pay value="75262.87" date="2005-10-02"></pay><pay value="90309.91" date="2011-05-04"></pay><pay value="95767.95" date="2013-01-29"></pay></credit>
+      <credit status="active" value="583278.62"><pay value="54098.34" date="2008-09-13"></pay><pay value="16219.86" date="2017-12-21"></pay><pay value="31161.29" date="2019-04-20"></pay><pay value="9403.89" date="2015-09-29"></pay></credit>
+      <credit status="closed" value="26336.73"></credit>
+      <credit status="closed" value="684385.78"></credit>
+      <credit status="active" value="698399.55"><pay value="115783.95" date="2008-03-11"></pay><pay value="107144.29" date="2016-07-14"></pay></credit>
+      <credit status="closed" value="959055.90"></credit>
+      <credit status="closed" value="716262.09"></credit>
+      <credit status="closed" value="10941.93"></credit>
+      <credit status="active" value="105233.35"><pay value="633.62" date="2016-08-03"></pay><pay value="49.67" date="2014-12-15"></pay><pay value="4007.13" date="2005-05-27"></pay><pay value="7900.63" date="2003-07-04"></pay></credit>
+      <credit status="closed" value="549677.09"></credit>
+      <credit status="closed" value="542084.55"></credit>
+      <credit status="closed" value="52315.84"></credit>
+      <credit status="closed" value="167051.55"></credit>
+      <credit status="active" value="750118.25"><pay value="84351.36" date="2006-02-04"></pay><pay value="101349.96" date="2010-06-21"></pay><pay value="72340.71" date="2008-04-03"></pay><pay value="96915.29" date="2003-10-03"></pay></credit>
+      <credit status="closed" value="292227.86"></credit>
+      <deposit status="active" value="393790.74"></deposit>
+    </client>
+    <client id="9335741" name="James Randolph">
+      <credit status="active" value="973387.94"><pay value="196324.30" date="2007-11-23"></pay></credit>
+      <deposit status="active" value="869961.49"></deposit>
+      <credit status="closed" value="907407.63"></credit>
+      <deposit status="closed" value="311985.96"></deposit>
+      <credit status="closed" value="719859.98"></credit>
+      <credit status="closed" value="205724.72"></credit>
+      <credit status="closed" value="477860.10"></credit>
+      <credit status="closed" value="436469.79"></credit>
+      <deposit status="closed" value="591493.87"></deposit>
+      <credit status="closed" value="810305.68"></credit>
+      <credit status="closed" value="620492.13"></credit>
+    </client>
+    <client id="2317364" name="Mark Vasquez">
+      <credit status="active" value="304119.83"><pay value="26845.89" date="2011-11-23"></pay><pay value="33939.65" date="2011-09-16"></pay></credit>
+      <credit status="closed" value="710098.00"></credit>
+      <credit status="active" value="334122.65"><pay value="6142.58" date="2009-04-01"></pay><pay value="51656.88" date="2005-02-25"></pay><pay value="3594.33" date="2016-07-09"></pay><pay value="55026.81" date="2016-11-05"></pay></credit>
+      <credit status="closed" value="493198.89"></credit>
+      <credit status="active" value="775319.91"><pay value="135566.70" date="2015-12-28"></pay><pay value="1192.56" date="2007-01-19"></pay><pay value="115847.25" date="2005-01-28"></pay><pay value="63581.44" date="2004-08-25"></pay></credit>
+      <credit status="active" value="96676.67"><pay value="69604.16" date="2004-08-30"></pay></credit>
+      <credit status="closed" value="441885.54"></credit>
+      <deposit status="closed" value="178740.88"></deposit>
+      <credit status="active" value="712963.91"><pay value="62312.71" date="2015-01-09"></pay><pay value="36426.21" date="2009-11-27"></pay><pay value="102967.37" date="2016-11-03"></pay><pay value="174527.59" date="2011-01-31"></pay></credit>
+      <credit status="closed" value="577230.02"></credit>
+    </client>
+    <client id="6913754" name="Cassidy Wilcox">
+      <deposit status="closed" value="936255.93"></deposit>
+      <credit status="closed" value="230352.39"></credit>
+      <deposit status="active" value="210668.29"></deposit>
+      <credit status="active" value="633419.50"><pay value="104865.17" date="2000-04-20"></pay><pay value="142373.23" date="2015-11-08"></pay><pay value="114423.47" date="2018-06-02"></pay><pay value="44090.83" date="2011-12-27"></pay></credit>
+      <credit status="active" value="56486.84"><pay value="4095.94" date="2002-07-07"></pay><pay value="1886.57" date="2012-10-18"></pay></credit>
+      <credit status="closed" value="656276.04"></credit>
+      <deposit status="active" value="913907.81"></deposit>
+      <credit status="active" value="759480.59"><pay value="245493.95" date="2018-03-22"></pay></credit>
+      <credit status="active" value="771110.37"><pay value="397793.24" date="2001-07-18"></pay></credit>
+      <deposit status="active" value="570464.66"></deposit>
+      <credit status="closed" value="556008.57"></credit>
+      <deposit status="active" value="38054.14"></deposit>
+      <credit status="active" value="774892.48"><pay value="289822.82" date="2019-02-19"></pay><pay value="201896.31" date="2017-11-25"></pay></credit>
+      <credit status="closed" value="471222.28"></credit>
+      <credit status="closed" value="441406.59"></credit>
+      <credit status="active" value="996106.50"><pay value="466616.20" date="2015-08-10"></pay><pay value="148807.53" date="2010-03-28"></pay></credit>
+      <credit status="active" value="567542.75"><pay value="180634.21" date="2009-01-26"></pay><pay value="126486.27" date="2003-07-10"></pay></credit>
+    </client>
+    <client id="5181082" name="Daniel Keller">
+      <credit status="active" value="280291.52"><pay value="21189.31" date="2012-01-06"></pay></credit>
+      <credit status="active" value="129319.36"><pay value="22419.05" date="2009-01-08"></pay><pay value="37407.53" date="2012-04-03"></pay><pay value="24888.89" date="2001-01-27"></pay></credit>
+      <deposit status="active" value="813243.88"></deposit>
+      <credit status="active" value="613772.08"><pay value="126564.91" date="2005-01-03"></pay><pay value="12418.74" date="2007-02-10"></pay><pay value="41554.60" date="2014-09-09"></pay><pay value="100628.69" date="2012-02-26"></pay></credit>
+      <credit status="closed" value="967041.47"></credit>
+      <credit status="closed" value="119865.21"></credit>
+      <deposit status="active" value="777464.98"></deposit>
+      <deposit status="active" value="58685.11"></deposit>
+      <deposit status="closed" value="194983.24"></deposit>
+      <credit status="closed" value="26295.95"></credit>
+      <credit status="active" value="717748.25"><pay value="159873.10" date="2005-02-11"></pay><pay value="146477.90" date="2009-03-13"></pay><pay value="98730.39" date="2010-11-10"></pay></credit>
+      <deposit status="active" value="365873.31"></deposit>
+      <deposit status="closed" value="930620.80"></deposit>
+      <credit status="closed" value="121377.12"></credit>
+      <deposit status="closed" value="652480.56"></deposit>
+      <credit status="active" value="898322.48"><pay value="354508.82" date="2006-12-15"></pay></credit>
+    </client>
+  </manager>
+  <manager name="Conley" email="jamesschaefer@horton-tucker.com" phone="+1-284-077-5801x4897">
+    <client id="2201139" name="Darren Johnson">
+      <deposit status="closed" value="366322.77"></deposit>
+      <credit status="closed" value="913756.16"></credit>
+      <credit status="active" value="441066.44"><pay value="70884.61" date="2011-05-19"></pay><pay value="21324.67" date="2001-02-03"></pay><pay value="132855.08" date="2011-08-08"></pay></credit>
+      <credit status="closed" value="350803.14"></credit>
+      <credit status="active" value="918449.21"><pay value="778299.76" date="2009-10-17"></pay></credit>
+      <credit status="closed" value="833681.63"></credit>
+      <credit status="active" value="754220.19"><pay value="506640.31" date="2003-03-17"></pay></credit>
+      <deposit status="closed" value="358203.35"></deposit>
+      <credit status="active" value="832558.06"><pay value="394297.15" date="2011-07-04"></pay><pay value="413425.63" date="2013-09-09"></pay></credit>
+      <credit status="active" value="294993.38"><pay value="12737.09" date="2007-11-06"></pay><pay value="12107.83" date="2008-08-16"></pay><pay value="78520.02" date="2005-10-19"></pay></credit>
+      <deposit status="closed" value="783354.00"></deposit>
+      <deposit status="closed" value="520761.69"></deposit>
+      <credit status="active" value="658131.23"><pay value="291152.86" date="2012-02-06"></pay></credit>
+      <deposit status="closed" value="383622.32"></deposit>
+      <deposit status="closed" value="938108.75"></deposit>
+      <credit status="closed" value="116333.70"></credit>
+      <credit status="active" value="618683.44"><pay value="32758.76" date="2010-12-04"></pay><pay value="189002.10" date="2016-09-13"></pay><pay value="92857.51" date="2013-07-05"></pay></credit>
+    </client>
+    <client id="2563465" name="Jeffrey Acosta">
+      <deposit status="closed" value="467573.28"></deposit>
+      <credit status="closed" value="16355.15"></credit>
+      <deposit status="active" value="538114.06"></deposit>
+      <deposit status="active" value="114114.34"></deposit>
+      <credit status="closed" value="954536.34"></credit>
+      <deposit status="closed" value="700499.77"></deposit>
+      <credit status="closed" value="699780.36"></credit>
+      <credit status="closed" value="461948.57"></credit>
+      <credit status="active" value="416013.49"><pay value="201114.34" date="2002-03-26"></pay><pay value="20819.06" date="2015-08-02"></pay></credit>
+      <credit status="closed" value="205093.75"></credit>
+      <credit status="closed" value="296556.51"></credit>
+      <credit status="active" value="34589.02"><pay value="17536.01" date="2017-02-06"></pay></credit>
+      <deposit status="active" value="981584.03"></deposit>
+      <credit status="closed" value="420680.95"></credit>
+      <credit status="closed" value="671402.01"></credit>
+      <credit status="closed" value="33713.29"></credit>
+    </client>
+    <client id="8457868" name="Sarah Clark">
+      <deposit status="closed" value="501769.98"></deposit>
+      <credit status="closed" value="185867.07"></credit>
+      <deposit status="closed" value="535458.55"></deposit>
+      <credit status="active" value="561873.98"><pay value="137890.39" date="2014-10-31"></pay></credit>
+      <credit status="active" value="824640.39"><pay value="109308.46" date="2016-11-21"></pay><pay value="60632.70" date="2010-05-20"></pay><pay value="134531.77" date="2003-09-19"></pay><pay value="12269.04" date="2008-06-11"></pay></credit>
+      <deposit status="active" value="595023.82"></deposit>
+      <deposit status="closed" value="910533.31"></deposit>
+      <credit status="closed" value="68063.50"></credit>
+      <deposit status="active" value="655514.43"></deposit>
+      <deposit status="active" value="343283.41"></deposit>
+      <credit status="active" value="661185.11"><pay value="51109.20" date="2015-06-03"></pay><pay value="129973.19" date="2004-03-16"></pay><pay value="95400.67" date="2011-12-05"></pay></credit>
+      <credit status="active" value="490019.12"><pay value="367719.24" date="2008-03-04"></pay></credit>
+      <deposit status="active" value="307978.22"></deposit>
+      <credit status="active" value="619733.00"><pay value="49191.59" date="2015-06-12"></pay><pay value="114927.79" date="2012-04-24"></pay></credit>
+      <credit status="active" value="144503.80"><pay value="2575.06" date="2017-09-01"></pay><pay value="48130.80" date="2004-03-18"></pay><pay value="4252.15" date="2018-09-06"></pay></credit>
+      <credit status="closed" value="615110.15"></credit>
+      <deposit status="closed" value="266877.28"></deposit>
+      <deposit status="closed" value="336052.78"></deposit>
+      <deposit status="closed" value="514657.16"></deposit>
+      <credit status="closed" value="924896.13"></credit>
+    </client>
+    <client id="1397642" name="Stacey Mitchell">
+      <credit status="active" value="388180.23"><pay value="63001.02" date="2011-03-14"></pay><pay value="12863.55" date="2018-08-07"></pay><pay value="93095.45" date="2017-04-28"></pay><pay value="7067.23" date="2004-08-18"></pay></credit>
+      <credit status="closed" value="939246.24"></credit>
+      <credit status="closed" value="199753.48"></credit>
+      <credit status="closed" value="149502.60"></credit>
+      <credit status="closed" value="381009.11"></credit>
+      <credit status="closed" value="106661.29"></credit>
+      <credit status="closed" value="535708.00"></credit>
+      <credit status="closed" value="730914.52"></credit>
+      <credit status="active" value="242144.29"><pay value="117293.73" date="2013-11-02"></pay><pay value="95357.06" date="2002-08-15"></pay></credit>
+      <credit status="active" value="53990.44"><pay value="22625.01" date="2008-09-13"></pay><pay value="14416.95" date="2013-12-05"></pay></credit>
+      <credit status="active" value="913056.51"><pay value="364305.31" date="2002-12-09"></pay><pay value="188411.29" date="2019-08-22"></pay></credit>
+    </client>
+    <client id="5524479" name="Patrick Campbell">
+      <deposit status="closed" value="832436.43"></deposit>
+      <deposit status="active" value="80188.75"></deposit>
+      <credit status="active" value="230333.96"><pay value="56766.27" date="2000-10-22"></pay><pay value="96087.73" date="2019-03-28"></pay></credit>
+      <credit status="closed" value="711058.05"></credit>
+      <deposit status="active" value="159169.83"></deposit>
+      <deposit status="active" value="443838.86"></deposit>
+      <deposit status="closed" value="256792.94"></deposit>
+      <credit status="active" value="534726.22"><pay value="136264.23" date="2004-12-19"></pay><pay value="122546.35" date="2001-03-19"></pay></credit>
+      <deposit status="active" value="240820.31"></deposit>
+      <credit status="active" value="174684.35"><pay value="162318.68" date="2017-02-09"></pay></credit>
+      <deposit status="closed" value="796864.65"></deposit>
+      <credit status="active" value="270496.43"><pay value="5333.48" date="2004-04-12"></pay><pay value="98080.44" date="2018-04-06"></pay></credit>
+      <credit status="closed" value="792130.14"></credit>
+      <credit status="active" value="466126.56"><pay value="153262.48" date="2008-03-02"></pay><pay value="92838.18" date="2014-05-17"></pay><pay value="67660.50" date="2012-09-01"></pay></credit>
+      <credit status="closed" value="647775.75"></credit>
+      <credit status="active" value="906956.11"><pay value="373868.91" date="2018-05-17"></pay></credit>
+      <deposit status="closed" value="963002.21"></deposit>
+      <credit status="closed" value="188222.10"></credit>
+      <credit status="active" value="984498.22"><pay value="406896.79" date="2018-04-19"></pay><pay value="105462.27" date="2001-06-18"></pay></credit>
+    </client>
+    <client id="3864692" name="Ashley Andersen">
+      <credit status="closed" value="440586.22"></credit>
+      <credit status="active" value="273100.66"><pay value="34866.58" date="2007-05-15"></pay><pay value="3466.93" date="2009-11-01"></pay><pay value="58744.07" date="2000-12-10"></pay></credit>
+      <credit status="closed" value="129903.54"></credit>
+      <deposit status="active" value="927033.00"></deposit>
+      <deposit status="active" value="688408.00"></deposit>
+      <credit status="closed" value="382137.35"></credit>
+      <credit status="active" value="241306.62"><pay value="4178.71" date="2001-07-20"></pay><pay value="74503.64" date="2015-10-30"></pay><pay value="52494.51" date="2001-12-27"></pay></credit>
+      <deposit status="active" value="664671.10"></deposit>
+      <credit status="active" value="367235.09"><pay value="66318.05" date="2019-04-03"></pay><pay value="31108.15" date="2018-04-05"></pay><pay value="86114.76" date="2001-07-30"></pay><pay value="46611.01" date="2000-11-30"></pay></credit>
+      <credit status="active" value="7516.15"><pay value="479.83" date="2002-06-16"></pay><pay value="1824.97" date="2019-07-18"></pay><pay value="1134.64" date="2009-06-29"></pay></credit>
+    </client>
+    <client id="6734792" name="Wesley Crawford">
+      <credit status="closed" value="164614.11"></credit>
+      <credit status="closed" value="855210.81"></credit>
+      <credit status="closed" value="554747.44"></credit>
+      <credit status="closed" value="839885.57"></credit>
+      <deposit status="active" value="699530.20"></deposit>
+      <credit status="active" value="188650.92"><pay value="59108.42" date="2004-09-09"></pay><pay value="28777.69" date="2008-01-28"></pay><pay value="23577.78" date="2006-10-11"></pay></credit>
+      <credit status="closed" value="435349.80"></credit>
+      <credit status="closed" value="126093.76"></credit>
+      <credit status="closed" value="518086.52"></credit>
+      <deposit status="active" value="914977.21"></deposit>
+      <deposit status="active" value="487358.55"></deposit>
+      <credit status="active" value="398516.20"><pay value="147833.27" date="2014-04-21"></pay><pay value="199019.94" date="2010-06-23"></pay></credit>
+      <credit status="active" value="279397.25"><pay value="53962.50" date="2010-11-26"></pay><pay value="88413.23" date="2013-09-23"></pay><pay value="43476.18" date="2000-08-06"></pay></credit>
+      <credit status="active" value="776497.19"><pay value="684825.55" date="2013-02-08"></pay></credit>
+      <deposit status="active" value="214549.61"></deposit>
+      <credit status="active" value="430522.36"><pay value="150610.11" date="2013-07-31"></pay><pay value="193636.08" date="2013-05-01"></pay></credit>
+      <deposit status="closed" value="966367.77"></deposit>
+      <deposit status="active" value="926948.04"></deposit>
+      <credit status="closed" value="370829.39"></credit>
+      <deposit status="active" value="134777.41"></deposit>
+    </client>
+    <client id="4598955" name="Jerry Elliott">
+      <deposit status="active" value="555860.53"></deposit>
+      <credit status="closed" value="317797.84"></credit>
+      <credit status="active" value="262807.01"><pay value="1279.61" date="2003-10-19"></pay></credit>
+      <credit status="active" value="228860.20"><pay value="23627.71" date="2003-11-06"></pay><pay value="48500.64" date="2016-04-12"></pay><pay value="49678.67" date="2019-07-25"></pay><pay value="12182.13" date="2005-01-27"></pay></credit>
+      <deposit status="active" value="664351.78"></deposit>
+      <credit status="closed" value="951621.32"></credit>
+      <credit status="closed" value="874867.57"></credit>
+      <credit status="closed" value="107163.59"></credit>
+      <credit status="closed" value="295681.30"></credit>
+      <credit status="active" value="751800.58"><pay value="62708.07" date="2001-04-20"></pay><pay value="127296.79" date="2013-05-19"></pay></credit>
+      <credit status="active" value="966036.34"><pay value="110102.22" date="2006-06-07"></pay></credit>
+      <credit status="active" value="823155.35"><pay value="248091.42" date="2003-07-27"></pay></credit>
+      <credit status="closed" value="887315.33"></credit>
+      <credit status="active" value="437307.48"><pay value="93497.56" date="2015-12-23"></pay><pay value="36035.63" date="2005-05-28"></pay><pay value="80367.03" date="2003-11-18"></pay></credit>
+      <credit status="closed" value="540481.51"></credit>
+      <deposit status="closed" value="256240.72"></deposit>
+    </client>
+    <client id="4107403" name="Gina Jones">
+      <credit status="closed" value="814177.86"></credit>
+      <credit status="active" value="524412.26"><pay value="72055.19" date="2015-10-06"></pay><pay value="152896.91" date="2004-09-16"></pay></credit>
+      <credit status="active" value="863301.16"><pay value="34940.82" date="2011-09-19"></pay><pay value="29509.03" date="2002-12-20"></pay></credit>
+      <credit status="active" value="406165.83"><pay value="33949.56" date="2000-08-03"></pay><pay value="62763.37" date="2011-07-09"></pay><pay value="4065.66" date="2011-02-03"></pay><pay value="67078.78" date="2010-08-09"></pay></credit>
+      <credit status="active" value="731802.85"><pay value="66898.31" date="2017-02-23"></pay></credit>
+      <deposit status="closed" value="74831.44"></deposit>
+      <credit status="closed" value="683533.60"></credit>
+      <deposit status="active" value="328523.22"></deposit>
+      <deposit status="active" value="368409.14"></deposit>
+      <deposit status="active" value="83428.47"></deposit>
+      <credit status="active" value="855338.22"><pay value="43718.73" date="2012-08-06"></pay></credit>
+      <credit status="active" value="265593.56"><pay value="25406.71" date="2016-04-20"></pay><pay value="1019.18" date="2007-10-11"></pay><pay value="15456.21" date="2012-02-17"></pay><pay value="2380.39" date="2011-03-03"></pay></credit>
+      <credit status="closed" value="251202.45"></credit>
+      <deposit status="active" value="160223.79"></deposit>
+      <credit status="closed" value="184569.08"></credit>
+    </client>
+  </manager>
+  <manager name="Murray" email="martinezcarl@yahoo.com" phone="(541)266-4851">
+    <client id="3609145" name="Anthony Wyatt">
+      <credit status="active" value="280497.72"><pay value="82326.67" date="2004-05-09"></pay><pay value="84807.71" date="2000-03-07"></pay></credit>
+      <credit status="closed" value="933143.10"></credit>
+      <credit status="active" value="158841.87"><pay value="25717.44" date="2015-01-20"></pay><pay value="56479.21" date="2011-09-12"></pay></credit>
+      <credit status="closed" value="344789.61"></credit>
+      <credit status="active" value="390698.72"><pay value="82062.47" date="2015-01-21"></pay><pay value="118631.44" date="2011-12-26"></pay><pay value="56037.22" date="2013-12-21"></pay></credit>
+      <credit status="closed" value="988999.35"></credit>
+      <credit status="closed" value="72884.39"></credit>
+      <credit status="active" value="554936.12"><pay value="98089.28" date="2015-05-22"></pay><pay value="147023.63" date="2002-11-07"></pay></credit>
+      <credit status="closed" value="626857.99"></credit>
+      <credit status="closed" value="32540.32"></credit>
+      <deposit status="active" value="310896.23"></deposit>
+      <deposit status="active" value="977597.40"></deposit>
+      <deposit status="closed" value="213532.47"></deposit>
+      <credit status="closed" value="914787.53"></credit>
+      <credit status="closed" value="942536.95"></credit>
+    </client>
+    <client id="1441296" name="Tara Sanders">
+      <deposit status="closed" value="560855.63"></deposit>
+      <credit status="active" value="183093.48"><pay value="44413.74" date="2004-10-16"></pay><pay value="13723.54" date="2008-04-03"></pay><pay value="24263.25" date="2005-03-09"></pay><pay value="15923.20" date="2019-07-02"></pay></credit>
+      <credit status="closed" value="324006.88"></credit>
+      <credit status="closed" value="798764.42"></credit>
+      <deposit status="active" value="722815.29"></deposit>
+      <deposit status="active" value="504418.90"></deposit>
+      <deposit status="active" value="882178.95"></deposit>
+      <credit status="closed" value="926252.52"></credit>
+      <credit status="closed" value="236337.59"></credit>
+      <credit status="active" value="116218.98"><pay value="5030.12" date="2001-08-25"></pay><pay value="11933.40" date="2011-07-10"></pay><pay value="8797.41" date="2008-06-10"></pay><pay value="13910.23" date="2011-07-05"></pay></credit>
+      <credit status="closed" value="664191.14"></credit>
+      <deposit status="closed" value="252763.69"></deposit>
+      <credit status="closed" value="116642.20"></credit>
+      <credit status="closed" value="435201.81"></credit>
+      <credit status="closed" value="838323.44"></credit>
+    </client>
+    <client id="4115683" name="William Hunt">
+      <credit status="closed" value="466639.93"></credit>
+      <deposit status="closed" value="419979.49"></deposit>
+      <deposit status="active" value="659446.50"></deposit>
+      <credit status="active" value="74241.92"><pay value="799.20" date="2000-07-13"></pay><pay value="5962.67" date="2011-09-22"></pay><pay value="5513.88" date="2008-11-29"></pay><pay value="5048.61" date="2014-02-21"></pay></credit>
+      <credit status="closed" value="53309.94"></credit>
+      <credit status="active" value="212984.40"><pay value="44384.24" date="2005-12-04"></pay><pay value="19694.00" date="2009-07-05"></pay><pay value="3630.60" date="2003-08-31"></pay><pay value="41747.67" date="2014-12-10"></pay></credit>
+      <deposit status="active" value="157561.58"></deposit>
+      <credit status="closed" value="853762.19"></credit>
+      <credit status="closed" value="398857.81"></credit>
+      <credit status="active" value="169722.16"><pay value="19664.05" date="2008-11-03"></pay><pay value="73709.31" date="2001-12-17"></pay></credit>
+      <credit status="active" value="715656.28"><pay value="59577.01" date="2014-11-01"></pay><pay value="94044.85" date="2015-05-04"></pay><pay value="232596.56" date="2017-03-12"></pay></credit>
+      <credit status="closed" value="635974.09"></credit>
+      <credit status="closed" value="812415.88"></credit>
+      <deposit status="active" value="137382.27"></deposit>
+      <deposit status="closed" value="545914.25"></deposit>
+      <credit status="closed" value="325984.47"></credit>
+      <deposit status="closed" value="755001.24"></deposit>
+    </client>
+    <client id="4701865" name="Michael Cooper">
+      <credit status="closed" value="530278.83"></credit>
+      <credit status="active" value="849034.89"><pay value="271888.33" date="2010-01-12"></pay></credit>
+      <deposit status="closed" value="857936.33"></deposit>
+      <credit status="closed" value="378729.16"></credit>
+      <credit status="closed" value="714014.52"></credit>
+      <deposit status="closed" value="932555.36"></deposit>
+      <credit status="active" value="756508.34"><pay value="129763.62" date="2018-07-04"></pay><pay value="144484.49" date="2010-02-28"></pay><pay value="185101.57" date="2000-05-03"></pay><pay value="143411.93" date="2012-02-11"></pay></credit>
+      <credit status="active" value="73140.23"><pay value="11297.01" date="2000-02-01"></pay><pay value="4639.43" date="2003-11-13"></pay><pay value="8344.69" date="2017-07-26"></pay><pay value="1527.97" date="2015-11-25"></pay></credit>
+      <deposit status="closed" value="789972.52"></deposit>
+      <credit status="closed" value="184209.55"></credit>
+      <credit status="closed" value="423088.15"></credit>
+    </client>
+    <client id="4489714" name="John Jennings">
+      <deposit status="active" value="524709.25"></deposit>
+      <credit status="closed" value="354504.94"></credit>
+      <deposit status="closed" value="899968.58"></deposit>
+      <credit status="active" value="939424.63"><pay value="177104.92" date="2003-07-27"></pay><pay value="13707.50" date="2000-01-22"></pay><pay value="117132.30" date="2013-04-19"></pay><pay value="163374.74" date="2016-09-19"></pay></credit>
+      <credit status="active" value="124799.52"><pay value="65738.11" date="2005-01-13"></pay></credit>
+      <deposit status="active" value="714783.40"></deposit>
+      <credit status="closed" value="365610.17"></credit>
+      <credit status="closed" value="134833.10"></credit>
+      <credit status="closed" value="794691.18"></credit>
+      <credit status="active" value="50455.99"><pay value="3485.55" date="2015-11-24"></pay><pay value="1534.17" date="2004-03-01"></pay><pay value="9925.21" date="2018-09-24"></pay><pay value="12460.15" date="2003-06-23"></pay></credit>
+      <credit status="active" value="632152.13"><pay value="19037.86" date="2007-08-13"></pay><pay value="262975.12" date="2001-10-21"></pay></credit>
+      <credit status="active" value="191625.82"><pay value="34025.04" date="2004-08-06"></pay><pay value="20410.91" date="2001-07-07"></pay><pay value="21522.42" date="2002-11-11"></pay><pay value="12381.00" date="2005-05-23"></pay></credit>
+      <credit status="closed" value="8108.89"></credit>
+      <credit status="closed" value="319337.02"></credit>
+      <credit status="closed" value="740809.17"></credit>
+      <credit status="active" value="961515.40"><pay value="306353.63" date="2013-04-15"></pay><pay value="45196.27" date="2007-09-21"></pay><pay value="304588.05" date="2007-04-01"></pay></credit>
+      <credit status="active" value="767495.58"><pay value="10355.54" date="2000-09-04"></pay><pay value="112070.99" date="2018-09-18"></pay><pay value="20699.31" date="2003-10-05"></pay></credit>
+    </client>
+    <client id="8344399" name="Christopher Harris">
+      <deposit status="closed" value="882041.56"></deposit>
+      <credit status="closed" value="748010.54"></credit>
+      <deposit status="closed" value="750876.03"></deposit>
+      <credit status="active" value="321950.02"><pay value="84176.17" date="2009-01-08"></pay><pay value="78162.68" date="2008-04-13"></pay><pay value="29808.89" date="2012-04-27"></pay></credit>
+      <credit status="active" value="279374.01"><pay value="63115.21" date="2018-04-26"></pay><pay value="46070.63" date="2004-06-07"></pay></credit>
+      <deposit status="closed" value="124462.65"></deposit>
+      <deposit status="closed" value="705138.11"></deposit>
+      <deposit status="closed" value="229945.02"></deposit>
+      <credit status="closed" value="703311.35"></credit>
+      <credit status="active" value="344732.91"><pay value="168254.58" date="2008-07-15"></pay><pay value="17709.70" date="2012-06-29"></pay></credit>
+      <credit status="closed" value="470868.46"></credit>
+      <credit status="active" value="84106.66"><pay value="31468.39" date="2007-11-22"></pay><pay value="38963.62" date="2006-03-27"></pay></credit>
+      <credit status="active" value="914009.84"><pay value="240738.35" date="2004-03-11"></pay><pay value="307944.34" date="2001-05-19"></pay></credit>
+      <credit status="active" value="86921.64"><pay value="32821.34" date="2011-09-24"></pay><pay value="14542.64" date="2014-08-15"></pay></credit>
+      <credit status="closed" value="897056.03"></credit>
+    </client>
+    <client id="6272503" name="Eric Sweeney">
+      <credit status="closed" value="928916.90"></credit>
+      <credit status="active" value="107888.88"><pay value="3193.02" date="2013-09-24"></pay><pay value="23422.43" date="2008-05-23"></pay><pay value="24069.67" date="2014-10-24"></pay><pay value="16932.84" date="2005-07-21"></pay></credit>
+      <credit status="active" value="324496.04"><pay value="201245.88" date="2007-06-12"></pay></credit>
+      <credit status="active" value="109477.16"><pay value="58276.06" date="2013-03-21"></pay></credit>
+      <credit status="active" value="707161.98"><pay value="485255.70" date="2019-05-08"></pay></credit>
+      <deposit status="active" value="467326.28"></deposit>
+      <credit status="active" value="857323.21"><pay value="44793.66" date="2010-08-13"></pay><pay value="183081.18" date="2007-02-16"></pay><pay value="15939.53" date="2009-01-17"></pay><pay value="187699.68" date="2009-10-03"></pay></credit>
+      <credit status="closed" value="298479.59"></credit>
+      <credit status="active" value="105481.24"><pay value="7363.27" date="2010-04-21"></pay><pay value="23826.12" date="2004-11-28"></pay><pay value="1459.00" date="2001-04-12"></pay><pay value="9627.67" date="2017-09-11"></pay></credit>
+      <deposit status="active" value="308522.76"></deposit>
+    </client>
+    <client id="6918056" name="Karen Phelps">
+      <deposit status="active" value="105918.43"></deposit>
+      <credit status="active" value="135235.71"><pay value="39673.15" date="2015-06-15"></pay><pay value="47271.98" date="2005-01-10"></pay></credit>
+      <credit status="closed" value="441845.74"></credit>
+      <deposit status="closed" value="261465.10"></deposit>
+      <deposit status="active" value="432673.62"></deposit>
+      <credit status="closed" value="761671.24"></credit>
+      <credit status="active" value="958424.28"><pay value="62905.29" date="2005-08-20"></pay><pay value="3391.95" date="2018-03-03"></pay><pay value="256949.41" date="2000-07-10"></pay></credit>
+      <credit status="active" value="63566.76"><pay value="8824.45" date="2017-04-19"></pay><pay value="21020.14" date="2000-06-22"></pay><pay value="6853.63" date="2001-02-02"></pay></credit>
+      <credit status="closed" value="447661.33"></credit>
+      <credit status="closed" value="934177.74"></credit>
+      <deposit status="active" value="998133.98"></deposit>
+      <credit status="closed" value="81469.43"></credit>
+      <credit status="active" value="41899.55"><pay value="1349.55" date="2010-05-06"></pay><pay value="18461.00" date="2018-09-19"></pay></credit>
+      <deposit status="closed" value="207905.93"></deposit>
+    </client>
+    <client id="8936517" name="Edward Wells">
+      <credit status="active" value="276943.56"><pay value="34707.19" date="2007-02-22"></pay><pay value="62039.89" date="2011-06-13"></pay><pay value="72976.46" date="2019-04-28"></pay></credit>
+      <credit status="active" value="14726.03"><pay value="226.93" date="2015-09-01"></pay><pay value="914.14" date="2006-12-31"></pay><pay value="894.71" date="2015-08-28"></pay><pay value="2715.07" date="2004-11-23"></pay></credit>
+      <deposit status="active" value="404116.59"></deposit>
+      <credit status="active" value="979950.54"><pay value="133114.13" date="2005-01-14"></pay><pay value="362559.03" date="2002-04-14"></pay></credit>
+      <credit status="active" value="486185.81"><pay value="116829.35" date="2006-01-30"></pay><pay value="15189.57" date="2014-01-23"></pay><pay value="11735.30" date="2007-04-05"></pay><pay value="39729.64" date="2002-11-23"></pay></credit>
+      <credit status="active" value="646841.09"><pay value="49681.02" date="2012-07-09"></pay><pay value="79389.57" date="2017-07-06"></pay><pay value="20684.94" date="2011-09-01"></pay></credit>
+      <credit status="active" value="354607.73"><pay value="105926.78" date="2006-10-16"></pay><pay value="57267.08" date="2002-01-02"></pay><pay value="109474.47" date="2015-12-02"></pay></credit>
+      <deposit status="active" value="170169.10"></deposit>
+      <credit status="closed" value="291231.92"></credit>
+      <credit status="closed" value="790895.97"></credit>
+      <credit status="closed" value="432211.37"></credit>
+      <credit status="active" value="532681.32"><pay value="124051.14" date="2011-10-24"></pay><pay value="111785.42" date="2018-11-02"></pay><pay value="23759.24" date="2009-06-03"></pay><pay value="84514.99" date="2000-12-03"></pay></credit>
+      <credit status="closed" value="693235.44"></credit>
+      <credit status="active" value="551121.89"><pay value="183037.75" date="2004-01-14"></pay></credit>
+    </client>
+    <client id="3790424" name="Joanna Dyer">
+      <deposit status="active" value="37280.07"></deposit>
+      <credit status="active" value="26994.53"><pay value="8323.54" date="2004-05-30"></pay><pay value="41.25" date="2009-11-18"></pay><pay value="3531.07" date="2016-01-08"></pay></credit>
+      <credit status="closed" value="473984.65"></credit>
+      <deposit status="active" value="255384.50"></deposit>
+      <credit status="active" value="522187.70"><pay value="191041.19" date="2015-08-21"></pay><pay value="89742.20" date="2015-10-14"></pay></credit>
+      <credit status="active" value="505332.75"><pay value="101995.38" date="2010-03-12"></pay><pay value="31898.00" date="2018-07-30"></pay><pay value="95016.23" date="2013-09-16"></pay><pay value="7710.66" date="2001-05-02"></pay></credit>
+      <credit status="active" value="176361.97"><pay value="53907.13" date="2012-03-25"></pay></credit>
+      <credit status="active" value="936624.88"><pay value="167008.12" date="2012-09-19"></pay><pay value="312136.18" date="2003-02-20"></pay><pay value="93597.71" date="2000-10-15"></pay></credit>
+      <deposit status="closed" value="502122.31"></deposit>
+      <deposit status="closed" value="422668.68"></deposit>
+      <deposit status="active" value="868680.43"></deposit>
+      <deposit status="active" value="721227.43"></deposit>
+      <credit status="active" value="349850.77"><pay value="44490.06" date="2000-10-22"></pay><pay value="83155.17" date="2019-07-14"></pay><pay value="37264.11" date="2000-07-24"></pay></credit>
+      <deposit status="closed" value="35369.63"></deposit>
+      <credit status="closed" value="355025.00"></credit>
+      <credit status="active" value="668692.43"><pay value="164964.58" date="2014-04-02"></pay></credit>
+    </client>
+  </manager>
+  <manager name="Carter" email="lstewart@yahoo.com" phone="001-787-615-7128">
+    <client id="9873981" name="Jermaine Cole">
+      <credit status="closed" value="13049.75"></credit>
+      <credit status="active" value="93718.92"><pay value="19112.81" date="2013-08-29"></pay></credit>
+      <credit status="closed" value="45403.34"></credit>
+      <credit status="active" value="268012.36"><pay value="56136.00" date="2008-04-01"></pay><pay value="9699.59" date="2014-04-22"></pay><pay value="14828.54" date="2007-12-20"></pay><pay value="53144.41" date="2018-03-06"></pay></credit>
+      <credit status="closed" value="888399.64"></credit>
+      <credit status="closed" value="262933.62"></credit>
+      <credit status="closed" value="939650.43"></credit>
+      <credit status="active" value="168090.34"><pay value="2140.26" date="2001-03-16"></pay><pay value="32735.18" date="2003-05-18"></pay><pay value="16205.59" date="2019-05-16"></pay><pay value="3354.74" date="2010-05-23"></pay></credit>
+      <deposit status="closed" value="14050.36"></deposit>
+      <credit status="closed" value="506046.85"></credit>
+      <credit status="active" value="90037.29"><pay value="1172.68" date="2012-11-24"></pay><pay value="13977.28" date="2001-06-12"></pay><pay value="23726.23" date="2003-07-13"></pay></credit>
+      <credit status="active" value="161961.07"><pay value="17116.36" date="2009-02-11"></pay><pay value="39413.42" date="2008-05-21"></pay><pay value="24134.88" date="2007-08-20"></pay></credit>
+    </client>
+    <client id="3979138" name="Brian Weber">
+      <deposit status="active" value="483667.44"></deposit>
+      <deposit status="closed" value="604857.47"></deposit>
+      <credit status="closed" value="249207.76"></credit>
+      <credit status="active" value="894572.78"><pay value="769968.20" date="2013-05-18"></pay></credit>
+      <deposit status="closed" value="421326.83"></deposit>
+      <credit status="active" value="22532.91"><pay value="3960.56" date="2004-01-17"></pay><pay value="5545.56" date="2006-04-08"></pay><pay value="1505.62" date="2017-10-01"></pay><pay value="944.43" date="2006-11-06"></pay></credit>
+      <deposit status="active" value="46197.11"></deposit>
+      <credit status="active" value="640141.20"><pay value="35266.25" date="2006-09-01"></pay><pay value="316375.38" date="2002-07-20"></pay></credit>
+      <credit status="active" value="234056.05"><pay value="1837.52" date="2010-05-08"></pay><pay value="57963.74" date="2014-12-10"></pay><pay value="1722.33" date="2009-02-18"></pay><pay value="53442.38" date="2000-08-22"></pay></credit>
+      <credit status="closed" value="889540.27"></credit>
+      <deposit status="active" value="943718.02"></deposit>
+      <credit status="active" value="815395.68"><pay value="293081.84" date="2018-05-04"></pay><pay value="182033.68" date="2004-02-10"></pay></credit>
+      <credit status="active" value="444089.16"><pay value="141565.19" date="2000-01-29"></pay><pay value="174434.92" date="2016-06-25"></pay></credit>
+      <credit status="active" value="162895.51"><pay value="35146.77" date="2016-05-25"></pay></credit>
+      <credit status="closed" value="832098.84"></credit>
+      <deposit status="closed" value="492434.38"></deposit>
+      <credit status="closed" value="511831.31"></credit>
+      <credit status="active" value="822452.53"><pay value="296658.03" date="2011-07-31"></pay></credit>
+      <credit status="active" value="302365.63"><pay value="61211.54" date="2018-02-13"></pay><pay value="15527.50" date="2001-04-19"></pay></credit>
+    </client>
+    <client id="7630448" name="Cory Reyes">
+      <credit status="closed" value="804255.91"></credit>
+      <credit status="closed" value="493801.84"></credit>
+      <credit status="active" value="257919.95"><pay value="35469.00" date="2004-08-23"></pay><pay value="60414.40" date="2009-11-11"></pay><pay value="55825.79" date="2011-12-19"></pay></credit>
+      <credit status="closed" value="620892.37"></credit>
+      <deposit status="closed" value="148305.67"></deposit>
+      <credit status="active" value="720457.58"><pay value="151198.89" date="2003-09-15"></pay><pay value="278691.71" date="2000-03-04"></pay></credit>
+      <credit status="active" value="103590.97"><pay value="14018.88" date="2019-02-20"></pay><pay value="11109.11" date="2007-11-30"></pay><pay value="18239.25" date="2014-05-08"></pay><pay value="16395.90" date="2018-01-23"></pay></credit>
+      <credit status="closed" value="215139.26"></credit>
+      <credit status="closed" value="123747.55"></credit>
+      <credit status="closed" value="621417.13"></credit>
+      <credit status="active" value="530376.96"><pay value="227390.85" date="2012-10-24"></pay><pay value="257191.81" date="2012-02-10"></pay></credit>
+    </client>
+    <client id="4151287" name="Sara Adams">
+      <credit status="active" value="498487.27"><pay value="55541.69" date="2002-06-17"></pay><pay value="9605.59" date="2007-12-05"></pay><pay value="22631.06" date="2000-07-17"></pay></credit>
+      <credit status="closed" value="74406.00"></credit>
+      <credit status="closed" value="962355.49"></credit>
+      <credit status="active" value="384550.44"><pay value="55980.40" date="2008-03-06"></pay><pay value="100770.87" date="2006-06-16"></pay><pay value="46307.25" date="2015-06-16"></pay></credit>
+      <deposit status="active" value="855906.53"></deposit>
+      <credit status="closed" value="873480.33"></credit>
+      <credit status="closed" value="309933.96"></credit>
+      <credit status="active" value="137444.61"><pay value="51716.01" date="2006-09-10"></pay><pay value="578.37" date="2005-09-09"></pay></credit>
+      <credit status="closed" value="267259.66"></credit>
+      <credit status="active" value="295073.42"><pay value="6338.89" date="2018-10-13"></pay><pay value="48629.56" date="2007-04-22"></pay></credit>
+      <deposit status="closed" value="84295.28"></deposit>
+      <deposit status="active" value="583728.44"></deposit>
+      <credit status="active" value="553670.37"><pay value="6167.01" date="2016-02-03"></pay><pay value="81801.19" date="2002-09-25"></pay><pay value="35288.92" date="2013-07-02"></pay><pay value="78342.55" date="2000-01-16"></pay></credit>
+    </client>
+    <client id="9881548" name="Shannon Williams">
+      <credit status="closed" value="462612.86"></credit>
+      <credit status="closed" value="686806.13"></credit>
+      <credit status="active" value="583292.49"><pay value="88490.63" date="2010-05-03"></pay><pay value="228207.25" date="2019-05-24"></pay></credit>
+      <credit status="closed" value="368510.13"></credit>
+      <deposit status="active" value="469397.15"></deposit>
+      <deposit status="closed" value="556106.59"></deposit>
+      <deposit status="active" value="745841.92"></deposit>
+      <credit status="active" value="80049.95"><pay value="58.58" date="2019-01-02"></pay><pay value="11766.55" date="2012-08-20"></pay><pay value="1004.07" date="2016-09-28"></pay><pay value="6551.79" date="2007-01-20"></pay></credit>
+      <credit status="closed" value="881420.69"></credit>
+      <credit status="closed" value="70303.04"></credit>
+      <credit status="active" value="646662.59"><pay value="554696.88" date="2010-01-29"></pay></credit>
+      <deposit status="active" value="930797.37"></deposit>
+      <deposit status="active" value="922231.34"></deposit>
+      <credit status="closed" value="564037.11"></credit>
+      <credit status="active" value="807252.80"><pay value="729817.91" date="2017-06-26"></pay></credit>
+      <deposit status="closed" value="532796.26"></deposit>
+      <deposit status="active" value="664517.54"></deposit>
+    </client>
+    <client id="1946838" name="Kevin Grant">
+      <deposit status="active" value="549286.38"></deposit>
+      <credit status="closed" value="492930.04"></credit>
+      <credit status="closed" value="773208.11"></credit>
+      <credit status="closed" value="801919.54"></credit>
+      <credit status="closed" value="455692.85"></credit>
+      <credit status="active" value="689905.94"><pay value="102895.72" date="2002-04-13"></pay><pay value="54108.06" date="2014-08-16"></pay><pay value="154228.59" date="2002-08-19"></pay><pay value="9267.95" date="2005-08-20"></pay></credit>
+      <deposit status="closed" value="993385.69"></deposit>
+      <credit status="closed" value="95562.60"></credit>
+      <credit status="active" value="658891.96"><pay value="241026.95" date="2004-06-24"></pay></credit>
+      <deposit status="active" value="565285.99"></deposit>
+      <credit status="active" value="171144.13"><pay value="113480.74" date="2004-06-03"></pay></credit>
+    </client>
+    <client id="4273360" name="Angela Clark">
+      <credit status="active" value="929144.71"><pay value="269018.47" date="2018-08-12"></pay></credit>
+      <credit status="active" value="896773.72"><pay value="559647.39" date="2002-10-08"></pay></credit>
+      <credit status="active" value="43006.29"><pay value="8391.09" date="2008-07-01"></pay><pay value="83.78" date="2006-08-10"></pay><pay value="5819.09" date="2000-03-09"></pay><pay value="5709.93" date="2012-03-16"></pay></credit>
+      <credit status="closed" value="476594.61"></credit>
+      <credit status="active" value="47061.82"><pay value="22639.79" date="2010-04-28"></pay><pay value="7151.13" date="2000-11-12"></pay></credit>
+      <credit status="active" value="442531.75"><pay value="3688.35" date="2017-04-30"></pay><pay value="26554.22" date="2013-12-01"></pay><pay value="24905.67" date="2010-09-13"></pay><pay value="71201.04" date="2016-05-04"></pay></credit>
+      <deposit status="closed" value="343939.64"></deposit>
+      <credit status="closed" value="764964.87"></credit>
+      <credit status="closed" value="928173.21"></credit>
+      <credit status="active" value="384465.64"><pay value="364779.92" date="2019-03-30"></pay></credit>
+      <credit status="active" value="627005.96"><pay value="80146.22" date="2015-11-01"></pay><pay value="17717.41" date="2000-03-15"></pay><pay value="72942.97" date="2010-11-07"></pay></credit>
+      <deposit status="active" value="284799.90"></deposit>
+      <credit status="closed" value="774834.18"></credit>
+      <deposit status="active" value="580710.30"></deposit>
+      <deposit status="active" value="207522.29"></deposit>
+      <deposit status="active" value="339344.70"></deposit>
+      <credit status="active" value="329061.32"><pay value="229125.74" date="2009-02-14"></pay></credit>
+      <credit status="active" value="886595.45"><pay value="218195.92" date="2005-01-14"></pay><pay value="152131.59" date="2009-10-10"></pay><pay value="202798.66" date="2009-01-27"></pay></credit>
+    </client>
+    <client id="6861019" name="Amy Banks">
+      <deposit status="active" value="9412.68"></deposit>
+      <credit status="active" value="136546.23"><pay value="8931.55" date="2001-06-06"></pay><pay value="21367.93" date="2000-09-28"></pay><pay value="15364.71" date="2000-03-03"></pay><pay value="7989.87" date="2010-07-05"></pay></credit>
+      <credit status="closed" value="256804.13"></credit>
+      <deposit status="active" value="632148.35"></deposit>
+      <credit status="active" value="413115.19"><pay value="358787.34" date="2001-06-18"></pay></credit>
+      <deposit status="active" value="777912.05"></deposit>
+      <credit status="closed" value="951477.28"></credit>
+      <deposit status="active" value="913581.04"></deposit>
+      <credit status="active" value="366531.79"><pay value="110496.03" date="2008-02-29"></pay><pay value="43563.87" date="2010-12-16"></pay><pay value="57140.96" date="2011-04-09"></pay></credit>
+      <credit status="closed" value="745320.10"></credit>
+      <credit status="active" value="922850.14"><pay value="187375.59" date="2003-09-29"></pay><pay value="424207.88" date="2000-06-12"></pay></credit>
+      <deposit status="active" value="773853.57"></deposit>
+      <credit status="closed" value="296486.42"></credit>
+      <deposit status="active" value="544960.77"></deposit>
+      <credit status="active" value="880839.90"><pay value="215141.56" date="2013-11-14"></pay><pay value="87064.19" date="2012-04-16"></pay></credit>
+      <deposit status="closed" value="564352.72"></deposit>
+      <deposit status="closed" value="25760.52"></deposit>
+      <credit status="active" value="743750.83"><pay value="309954.51" date="2014-07-15"></pay></credit>
+      <deposit status="closed" value="850029.05"></deposit>
+    </client>
+    <client id="2784230" name="Lori Martin">
+      <credit status="closed" value="736079.87"></credit>
+      <deposit status="closed" value="395174.40"></deposit>
+      <credit status="active" value="543993.76"><pay value="87212.80" date="2013-06-09"></pay><pay value="63045.77" date="2000-07-05"></pay><pay value="152030.92" date="2001-05-17"></pay></credit>
+      <credit status="active" value="540521.95"><pay value="193513.02" date="2000-01-21"></pay><pay value="128236.83" date="2002-10-27"></pay></credit>
+      <credit status="closed" value="185836.41"></credit>
+      <credit status="active" value="467297.81"><pay value="187288.44" date="2019-01-08"></pay><pay value="125496.19" date="2006-06-02"></pay></credit>
+      <credit status="closed" value="144445.83"></credit>
+      <credit status="closed" value="478624.64"></credit>
+      <deposit status="active" value="463478.86"></deposit>
+      <credit status="active" value="29000.60"><pay value="5179.31" date="2005-03-20"></pay><pay value="4525.52" date="2010-03-06"></pay><pay value="771.67" date="2016-06-28"></pay><pay value="6574.88" date="2017-12-17"></pay></credit>
+      <deposit status="active" value="184952.98"></deposit>
+      <credit status="active" value="633596.26"><pay value="291092.04" date="2005-03-14"></pay></credit>
+      <credit status="closed" value="577751.80"></credit>
+      <credit status="closed" value="567443.93"></credit>
+      <credit status="active" value="375923.70"><pay value="78744.87" date="2006-08-06"></pay><pay value="47998.49" date="2015-05-16"></pay><pay value="78284.86" date="2001-01-15"></pay><pay value="55679.22" date="2012-08-07"></pay></credit>
+      <credit status="active" value="343838.03"><pay value="69750.45" date="2012-03-15"></pay><pay value="115115.46" date="2018-02-06"></pay></credit>
+      <credit status="active" value="266245.52"><pay value="10907.29" date="2015-08-23"></pay><pay value="32790.17" date="2018-04-06"></pay><pay value="1455.42" date="2011-05-18"></pay></credit>
+      <credit status="closed" value="337609.91"></credit>
+      <credit status="closed" value="348864.41"></credit>
+      <credit status="active" value="66694.66"><pay value="23311.73" date="2018-10-25"></pay></credit>
+    </client>
+  </manager>
+  <manager name="Potts" email="shanemartinez@ortiz.net" phone="190-421-7349x77318">
+    <client id="8626485" name="Nancy Kelley">
+      <credit status="closed" value="52732.23"></credit>
+      <deposit status="closed" value="313190.59"></deposit>
+      <credit status="closed" value="634473.53"></credit>
+      <credit status="closed" value="754448.26"></credit>
+      <credit status="closed" value="296195.59"></credit>
+      <credit status="active" value="64408.41"><pay value="20572.75" date="2012-01-01"></pay></credit>
+      <credit status="closed" value="777941.12"></credit>
+      <credit status="closed" value="384128.44"></credit>
+      <deposit status="active" value="341268.13"></deposit>
+      <deposit status="active" value="929092.42"></deposit>
+      <credit status="active" value="274533.98"><pay value="141504.74" date="2000-11-08"></pay></credit>
+      <credit status="closed" value="612980.05"></credit>
+    </client>
+    <client id="3102871" name="Elizabeth Ramos">
+      <credit status="active" value="840283.94"><pay value="392104.38" date="2001-05-13"></pay><pay value="252159.71" date="2015-08-28"></pay></credit>
+      <deposit status="active" value="382283.32"></deposit>
+      <credit status="active" value="668636.05"><pay value="210324.79" date="2005-10-20"></pay><pay value="191634.73" date="2011-06-13"></pay><pay value="158718.51" date="2014-02-08"></pay></credit>
+      <credit status="active" value="127923.31"><pay value="33949.69" date="2007-07-21"></pay><pay value="19567.01" date="2016-06-30"></pay></credit>
+      <credit status="closed" value="178766.14"></credit>
+      <credit status="active" value="338894.10"><pay value="75500.99" date="2006-07-29"></pay><pay value="35286.21" date="2008-01-29"></pay><pay value="28536.66" date="2005-11-13"></pay></credit>
+      <deposit status="active" value="670109.21"></deposit>
+      <deposit status="active" value="120786.37"></deposit>
+      <credit status="active" value="348049.78"><pay value="3523.12" date="2009-11-23"></pay><pay value="78341.87" date="2006-01-15"></pay><pay value="55110.41" date="2004-06-16"></pay><pay value="5091.05" date="2006-12-21"></pay></credit>
+      <credit status="closed" value="588534.31"></credit>
+      <credit status="active" value="561935.27"><pay value="15777.88" date="2014-07-07"></pay><pay value="16207.97" date="2001-07-04"></pay><pay value="169637.11" date="2013-05-23"></pay></credit>
+      <credit status="active" value="697213.20"><pay value="151728.91" date="2015-04-27"></pay><pay value="58304.33" date="2007-03-28"></pay><pay value="81258.95" date="2016-04-04"></pay><pay value="172130.73" date="2003-04-16"></pay></credit>
+      <credit status="closed" value="531492.97"></credit>
+      <credit status="closed" value="219104.40"></credit>
+      <credit status="active" value="231416.49"><pay value="5757.56" date="2004-12-31"></pay><pay value="13439.33" date="2014-06-28"></pay><pay value="27851.17" date="2014-07-22"></pay></credit>
+      <credit status="active" value="754653.99"><pay value="30338.12" date="2015-06-19"></pay><pay value="160130.95" date="2004-08-10"></pay><pay value="34395.87" date="2007-03-26"></pay></credit>
+      <credit status="active" value="313049.91"><pay value="49500.29" date="2007-12-02"></pay><pay value="32782.22" date="2013-07-11"></pay><pay value="60258.81" date="2014-10-19"></pay><pay value="19020.55" date="2019-08-11"></pay></credit>
+    </client>
+    <client id="2138097" name="Randall Daniels">
+      <credit status="closed" value="136975.95"></credit>
+      <credit status="active" value="111901.93"><pay value="43255.05" date="2002-10-19"></pay><pay value="15728.72" date="2012-01-31"></pay></credit>
+      <deposit status="closed" value="288482.88"></deposit>
+      <credit status="closed" value="456199.78"></credit>
+      <credit status="closed" value="941205.14"></credit>
+      <credit status="closed" value="331705.85"></credit>
+      <credit status="closed" value="960408.97"></credit>
+      <credit status="active" value="678203.94"><pay value="188076.23" date="2009-02-19"></pay></credit>
+      <deposit status="active" value="744622.68"></deposit>
+      <credit status="closed" value="803800.46"></credit>
+      <credit status="closed" value="731008.55"></credit>
+      <deposit status="closed" value="837255.64"></deposit>
+      <credit status="closed" value="445139.94"></credit>
+      <deposit status="active" value="116562.11"></deposit>
+      <credit status="closed" value="972732.04"></credit>
+      <credit status="closed" value="896243.05"></credit>
+    </client>
+    <client id="5286341" name="Jose Ferguson">
+      <credit status="active" value="8404.89"><pay value="2555.17" date="2008-02-19"></pay><pay value="1783.20" date="2014-09-26"></pay><pay value="71.97" date="2005-04-24"></pay></credit>
+      <credit status="closed" value="32517.54"></credit>
+      <credit status="closed" value="340297.78"></credit>
+      <credit status="closed" value="232864.35"></credit>
+      <deposit status="closed" value="755950.43"></deposit>
+      <deposit status="closed" value="978699.32"></deposit>
+      <credit status="active" value="236793.75"><pay value="3587.05" date="2014-01-04"></pay><pay value="112158.03" date="2017-08-30"></pay></credit>
+      <deposit status="closed" value="109882.50"></deposit>
+      <credit status="active" value="875333.16"><pay value="162817.09" date="2018-03-06"></pay><pay value="153509.61" date="2006-07-11"></pay><pay value="25325.74" date="2010-07-29"></pay><pay value="195940.87" date="2011-04-26"></pay></credit>
+      <credit status="active" value="636069.91"><pay value="20689.37" date="2012-10-03"></pay></credit>
+      <credit status="active" value="208263.84"><pay value="30609.74" date="2017-03-04"></pay><pay value="12176.73" date="2015-06-10"></pay><pay value="1144.40" date="2008-09-08"></pay><pay value="13535.74" date="2000-12-26"></pay></credit>
+      <credit status="closed" value="771720.25"></credit>
+      <credit status="active" value="409013.07"><pay value="46247.38" date="2006-01-03"></pay><pay value="84549.22" date="2002-02-14"></pay><pay value="37586.77" date="2000-04-30"></pay><pay value="70935.63" date="2011-01-05"></pay></credit>
+      <credit status="closed" value="640665.42"></credit>
+      <credit status="closed" value="327099.07"></credit>
+      <deposit status="closed" value="990056.62"></deposit>
+      <deposit status="active" value="882848.26"></deposit>
+    </client>
+    <client id="8717289" name="Sandra Hill">
+      <credit status="active" value="178066.48"><pay value="54089.84" date="2004-07-30"></pay><pay value="12166.82" date="2007-05-01"></pay><pay value="415.04" date="2010-06-06"></pay></credit>
+      <credit status="active" value="40093.74"><pay value="32963.10" date="2002-08-10"></pay></credit>
+      <credit status="active" value="865451.29"><pay value="102639.42" date="2003-09-06"></pay><pay value="130898.48" date="2012-11-01"></pay><pay value="157888.65" date="2018-12-02"></pay><pay value="113713.41" date="2002-06-09"></pay></credit>
+      <credit status="closed" value="706345.45"></credit>
+      <credit status="closed" value="625611.52"></credit>
+      <deposit status="active" value="117734.77"></deposit>
+      <credit status="closed" value="211955.38"></credit>
+      <deposit status="closed" value="428871.30"></deposit>
+      <deposit status="closed" value="382949.69"></deposit>
+      <deposit status="closed" value="528184.24"></deposit>
+      <deposit status="active" value="298759.55"></deposit>
+      <credit status="closed" value="790818.17"></credit>
+      <credit status="active" value="407846.28"><pay value="121135.09" date="2009-01-31"></pay><pay value="103130.65" date="2017-10-27"></pay><pay value="55953.57" date="2005-01-15"></pay></credit>
+      <credit status="active" value="81104.06"><pay value="18586.77" date="2004-06-30"></pay><pay value="19147.79" date="2016-05-07"></pay></credit>
+      <deposit status="active" value="16978.72"></deposit>
+      <credit status="active" value="122759.49"><pay value="23552.14" date="2003-12-15"></pay><pay value="19937.36" date="2014-12-07"></pay><pay value="8325.37" date="2006-10-14"></pay><pay value="109.62" date="2012-01-23"></pay></credit>
+    </client>
+  </manager>
+</root>
